@@ -1,0 +1,755 @@
+clrmamepro (
+	name "GOG.com - Movies"
+	description "GOG.com - Movies"
+	category "Movies from the gaming industry."
+	version 52
+	date "9th August, 2020"
+	author "Connie Thunder"
+	email "Not Applicable"
+	homepage "Connie's DAT Files"
+	url " https://goo.gl/r53xhZ "
+	comment "GOG.com Collection of Movies. Available in DVD, 720p & 1080p resolutions. MP4 format."
+	forcenodump ignore
+	forcepacking unzip
+)
+
+game (
+	name 100_yen_the_japanese_arcade_experience
+	description "100 Yen - The Japanese Arcade Experience (Documentary - Gaming - Movie)"
+	year "August 7, 2014"
+	manufacturer "Strata Studios / FilmBuff"
+	rom ( name 100.yen.the.japanese.arcade.experience.(2012).1080p.mp4 size 3038756109 crc d567109d md5 d962fa618435443d066c70b5ae81c819 sha1 6d54313a9b439520f2eb2f519461d13ffa2a761f )
+	rom ( name 100.yen.the.japanese.arcade.experience.(2012).576p.mp4 size 697731290 crc 92c66f6b md5 13aa450fa0e43c5bd314e4d50973c013 sha1 b9f2272d44a26a3229edcd998848cbeef4cea598 )
+	rom ( name 100.yen.the.japanese.arcade.experience.(2012).720p.mp4 size 1537873502 crc 3342ad8a md5 a1c0dba6afaaf6fe39d8dfd9639f816c sha1 a85a71a380f179a763ba9ac6dc101efb059060ec )
+	rom ( name 100_yen_poster.zip size 102541678 crc aa1dd944 md5 76c01a6375f4658f2b05da1a0038ff91 sha1 8c8126940bdfa3fdfbcf0dda4d9a148bfa3bb6a8 )
+	rom ( name 100_yen_trailer.zip size 62531428 crc 03371b61 md5 3721fee01bfbdb9ea4f73f3882ece79c sha1 06102f94df5cb19b508455d385d48f338cc16336 )
+)
+
+game (
+	name angry_video_game_nerd_the_movie
+	description "Angry Video Game Nerd - The Movie (Documentary - Gaming - Movie)"
+	year "July 21, 2014"
+	manufacturer "Cinemassacre Productions / Devolver Digital"
+	rom ( name angry.video.game.nerd.1080p_subs.mp4 size 4386092245 crc 45d5b22f md5 6b51f76f2d3f43fd6b0df21c7d811746 sha1 19796d1ba3d8ebb5cf614d49d07efd6ffee99f9e )
+	rom ( name angry.video.game.nerd.576p_subs.mp4 size 837877191 crc 1312d5b3 md5 e6df5f23bd5a1dbae866b05bbb0f9539 sha1 8e845f290fe787efe65feb5714340026f1659a9f )
+	rom ( name angry.video.game.nerd.720p_subs.mp4 size 2078970403 crc a4117556 md5 87e75d8af254196bb25a1bb365895f59 sha1 7ba0c243e0c2ecb7fb599592312a044d19c52848 )
+	rom ( name avgn_subs_pack.zip size 214690 crc 98ed0f46 md5 1d6cd8695e64978811a916bb1131fdf1 sha1 f1c63fd154b6328d01cb581330e76f0b9ec949c1 )
+	rom ( name avgn_the_movie_poster.zip size 15923108 crc 57d63bb8 md5 39dd261bdf83f16d81998098a32732ec sha1 bad3f6f8842cb6b04ce552004f2d06f7fef23c06 )
+	rom ( name avgn_the_movie_trailer.zip size 198244225 crc 0bace9b7 md5 e7685bd4f97126a7452b58a4e27b3a46 sha1 42dc2054b985964f0720f3576b728ba07a01897e )
+)
+
+game (
+	name austin_high
+	description "Austin High (Documentary - Gaming - Movie)"
+	year "October 22, 2011"
+	manufacturer "Gone Off Deep Productions / Devolver Digital"
+	rom ( name austin.high.(2011).1080p.mp4 size 3611605162 crc 0703d0cb md5 fee632d6c030173ec9bc2847c2631f55 sha1 3e8a04cc743ab1c1e75de6f6f4defc84bed85d06 )
+	rom ( name austin.high.(2011).576p.mp4 size 651891083 crc c82cdc1e md5 24b098ba68fde2ec2082bccc4897270b sha1 fd45b6746f1bb8337b71eac5f7139862c667b07b )
+	rom ( name austin.high.(2011).720p.mp4 size 1470301249 crc ce4e8e8d md5 3399c8ef46901e94a10c16c817bcd153 sha1 e1ec7c9e5f2023f802825f57b97fc38a39939e70 )
+	rom ( name austin_high_poster.zip size 3572716 crc 7ae7425d md5 4dbcc61cb426f2e2396bd91002b82cd4 sha1 cb9c45787745d30af0d96838aba10395c38ca0e1 )
+	rom ( name austin_high_trailer.zip size 81540420 crc a8cb88f5 md5 7e01e7bf98d6a66eae2260780a755fd5 sha1 3daeb0fe9b07d2b0442dcd34fa5bcd092c2bcfb6 )
+	rom ( name austin_high_wallpaper.zip size 807262 crc 63867ef2 md5 0897656632a36610d5ca2746dc4ca857 sha1 bc36ae13f0de0657f4081374721006076417541f )
+)
+
+game (
+	name bots_high
+	description "Bots High (Documentary - Gaming - Movie)"
+	year "January 2, 2010"
+	manufacturer "Coffee and Celluloid Productions / FilmBuff"
+	rom ( name bots.high.(2010).1080p.mp4 size 4275829733 crc 63d1ad68 md5 9d4f4bbbc3c4af1cc29199512221d9ec sha1 df2bed44941464a0e371bc33ed5440e3cf9995c5 )
+	rom ( name bots.high.(2010).576p.mp4 size 883435947 crc d26ad46f md5 3512b40011ea4e3595b3e4507e427de4 sha1 bb04d17280c4473ecf002210b84151b165f6ebeb )
+	rom ( name bots.high.(2010).720p.mp4 size 2046577674 crc 996d4a31 md5 de1f103f50b72547f30fc49e47c75fd9 sha1 f2ed84c95ee9ab8ec11e081ab66c71c8a00ad2ff )
+	rom ( name bots_high_poster.zip size 8290709 crc 48a44d29 md5 db403db142138c06a0fedbc63acbbdd9 sha1 fd49a0de89c043b2789913d3a43e3c2db2525d88 )
+	rom ( name bots_high_trailer.zip size 107942902 crc 1c773c40 md5 371d361524cf84ad9a810c47d680d2c1 sha1 a166326959a86cd728eb195cd0ddec2c641c8330 )
+	rom ( name bots_high_wallpapers.zip size 1787563 crc 52f4c87f md5 70f5d262fe49e346ea798a667016df4c sha1 a649d0eb1365a86b187faac8dcbb09e1b4465640 )
+)
+
+game (
+	name bronies_the_extremely_unexpected_adult_fans_of_my_little_pony
+	description "Bronies - The Extremely Unexpected Adult Fans of My Little Pony (Documentary - Gaming - Movie)"
+	year "August 7, 2012"
+	manufacturer "BronyDoc / FilmBuff"
+	rom ( name bronies.(2012).1080p.mp4 size 4143098474 crc 564eb469 md5 ff679463e7858c94c6746f3702059014 sha1 cb047aa27749efa1ce4770c9f2e0d0f8193b09b3 )
+	rom ( name bronies.(2012).576p.mp4 size 763825895 crc 1971ab88 md5 29131d04c8b4ef68223bc243575b0283 sha1 3b0f7e3a483a113bf4532c25d460b9005e73cbc6 )
+	rom ( name bronies.(2012).720p.mp4 size 1829999910 crc 9136119c md5 ab42bdcf7ea41b5d5c1f40703f782e94 sha1 b655d419396cdb2cbdbb9abbebb2c2d074bf0b47 )
+	rom ( name bronies_poster.zip size 1391996 crc e86bdfe8 md5 7ffe5e2000300f770e5f2fa8bd3b1f31 sha1 ac366941f34caa4530195582fc6cec50257aa80c )
+	rom ( name bronies_subtitles.zip size 42169 crc 4a8b7edb md5 ed32690f2a7e2bed18c17726057d28cc sha1 4f54b32e29c46840689b7b83079b380f19e06134 )
+	rom ( name bronies_trailer.zip size 191086643 crc c62e2442 md5 c3d3636f9f97311a5b9b289785020314 sha1 8e319abe5ef62797083094cd5eebaefcb2d1fc4e )
+)
+
+game (
+	name burning_man_beyond_black_rock
+	description "Burning Man - Beyond Black Rock (Documentary - Gaming - Movie)"
+	year "November 5, 2005"
+	manufacturer "Gone Off Deep Productions / Devolver Digital"
+	rom ( name burning.man.576p.mp4 size 1327796639 crc 471e5f71 md5 aeaeed8f94949f8633eef5dfb30c937b sha1 4d6f477b208cbc11f8d50fd1138faeee4d79f823 )
+	rom ( name burning_man_photos.zip size 11813640 crc 407eb4fc md5 fecab3447588ffbf63edf47d7397bad6 sha1 5b771b5dc7996314fb11cbb2adfaf2ce8d5b41b0 )
+	rom ( name burning_man_subs.zip size 49683 crc 0b71deef md5 3d99014f68a392bad27305c41102bdaa sha1 607d26033b1f518de67e0d29ab3c9d85f8b45a78 )
+	rom ( name burning_man_trailer.zip size 13976894 crc dec6d05a md5 ba46f9baa6e9aedcbdc3cbd6e51814c1 sha1 4c1748c19e2f44d8393eb159e7e9e868c4a56900 )
+)
+
+game (
+	name cartoon_college
+	description "Cartoon College (Documentary - Gaming - Movie)"
+	year "June 11, 2012"
+	manufacturer "L.B. Thunderpony Productions / FilmBuff"
+	rom ( name cartoon.college.(2012).1080p.mp4 size 3992878699 crc 3120aa3a md5 923ac7a717ab2146740f12431f45f827 sha1 74ece5d1b00820b7bd58b24ad4b7780f715cae69 )
+	rom ( name cartoon.college.(2012).576p.mp4 size 738060319 crc 68d53202 md5 2bc1b95c1f6fc08806b2d381e37abf71 sha1 057a1945976ac7b7bf516de63cfaa954848b0cdf )
+	rom ( name cartoon.college.(2012).720p.mp4 size 1895882262 crc b84dd578 md5 51a0b9a403a8425a72435dbb983ce48d sha1 268d65940320fec67faa6d70eb37d241b66fb94d )
+	rom ( name cartoon.college.en.ZIP size 49497 crc cd5d073b md5 ff306a341e4399ff4b1459f45c953222 sha1 e2afc21388f600e744aeec4525ceb48f6308cacc )
+	rom ( name cartoon_college_poster.zip size 37090485 crc c17a9572 md5 b4e1cf8157a3c1b81b586077107a6fdd sha1 ebd9a4630fde9aa808c23aa1659ef19c0d9fda2a )
+	rom ( name cartoon_college_subtitles.zip size 49253 crc e41d1a79 md5 6759ccb2c2ee809388679649d63aa754 sha1 43353fdb279834466300190d1280602f5fedfe72 )
+	rom ( name cartoon_college_trailer.zip size 106894619 crc 2721bf2e md5 1fd63da666d8cdd279b1a5dc2c65ec16 sha1 11388ae8de5fed6d3dbddad67762fc4be4280792 )
+	rom ( name cartoon_college_wallpapers.zip size 6852936 crc 9c5611f1 md5 08fb28dc740aa64a8c5ab9f116950c58 sha1 f4042e415c3693071204706bd679c91aeb64fc08 )
+)
+
+game (
+	name dead_meat_walking
+	description "Dead Meat Walking - A Zombie Walk Documentary (Documentary - Gaming - Movie)"
+	year "January 28, 2014"
+	manufacturer "Rebar Films / FilmBuff"
+	rom ( name dead.meat.walking.(2012).1080p.mp4 size 3664668164 crc b250e7bb md5 082a01722d86cafc1f6b13135bed3864 sha1 0c5d24299e3e057005a13b8a8c8e5732d5092646 )
+	rom ( name dead.meat.walking.(2012).576p.mp4 size 725859291 crc a989e542 md5 05e2627fd0bc6952e59b2a4822adc0aa sha1 0ca50fc6c5abaa2c67c05968454100b2686fe4cf )
+	rom ( name dead.meat.walking.(2012).720p.mp4 size 1771573587 crc d05d5a17 md5 44a4ead8e9a194ae4b86991d262742c5 sha1 c4d3e1088dba11d46d8e6eb83ff540f1d3d212c5 )
+	rom ( name dmw_poster.zip size 4760802 crc ab0513a5 md5 858a44dd9526efdf71e8b7c5c54d4a18 sha1 19410eeae9f69934d0ba7b9735ac867875c13ac3 )
+	rom ( name dmw_trailer.zip size 70492077 crc 44ea68da md5 ffc3c530d7a0954786dc841e891d45d4 sha1 b9decf0d66cae71b9b6f678b5166c6aa26cccfee )
+)
+
+game (
+	name deliverance_the_making_of_kingdom_come
+	description "Deliverance - The Making of Kingdom Come (Documentary - Gaming - Movie)"
+	year "December 20, 2018"
+	manufacturer "Warhorse Studios / Warhorse Studios"
+	rom ( name deliverance_making_of_kingdom_come_1080p.mp4 size 14210765706 crc 3745b95f md5 871f9a292342443d414749cff27f12d4 sha1 28b32a9ca4fa67c7ba0111381e68ea74693f83fb )
+	rom ( name deliverance_making_of_kingdom_come_720p.mp4 size 7448818402 crc 04890c21 md5 d4d6aa8176bfed4339973a20bc6bc5bb sha1 51d330a5ba2a727399864eb6a6a2635e2d2ee201 )
+	rom ( name mo_kcd_subtitles_all.zip size 489327 crc ef2dbcb4 md5 493bc0791bd5204d6e0d692fea8e8c59 sha1 375f4682522cc74873c6be611942b2078aa29a59 )
+	rom ( name poster.zip size 12085885 crc 1b63a5d0 md5 c903c892a462157f9551bbb7a71f2f5b sha1 fc500081aeaaefd3c2a67b5c8765bb302bd1edc6 )
+)
+
+game (
+	name double_fine_adventure
+	description "Double Fine Adventure - Definitive Edition (Documentary - Gaming - Movie)"
+	year "October 01, 2015"
+	manufacturer "2 Player Productions / Double Fine Productions"
+	rom ( name dfa_poster.zip size 2281731 crc c8130f2f md5 a509d9f1a0ade7282e2a40a62b184f96 sha1 ceff83f9d732290bb6a3f1c4c6817a92557bb548 )
+	rom ( name double_fine_adventure_ep1.zip size 1272927669 crc 7cc6fdde md5 2ed97ac0848383b103db1429c6df17a0 sha1 af908c27cbcd1f947c75510268516f4856f87512 )
+	rom ( name double_fine_adventure_ep10.zip size 2521021531 crc d4a0ac22 md5 794571d2f12be2ae598c6293ebcf0a1c sha1 359d1ad602137f0c7f4da3c6d78e58cf30fd784e )
+	rom ( name double_fine_adventure_ep11.zip size 2985210496 crc 2e584cf2 md5 3b199343ac1c2a890fc72caf6315aa75 sha1 bf3cdf9ec0a49c7c8d60c1f9ec71f904cba3d29d )
+	rom ( name double_fine_adventure_ep12.zip size 2413621290 crc 4f05b076 md5 d24e34af3f76e3cf21461e7689d0d05c sha1 f7aa014732fcd04ec970ff6549c0074d35da0611 )
+	rom ( name double_fine_adventure_ep13.zip size 3167035168 crc 9c62fc4c md5 5e39faf0fdfebc172734ded03cc01cae sha1 af9eb24c634c06564fdc72c020c3ded01a268f24 )
+	rom ( name double_fine_adventure_ep14.zip size 2149039325 crc a4a5aa38 md5 98594155e8331770951069106e9b59c9 sha1 11ec21e497884ceadfa4880f70093b2dc23857fd )
+	rom ( name double_fine_adventure_ep15.zip size 2914612532 crc e8e8bfb9 md5 d0008f1e932cdec156a9894167b52cc0 sha1 3a6dfbfeca5b79f6795692a04851d174553e0af5 )
+	rom ( name double_fine_adventure_ep16.zip size 1761944680 crc c062fa93 md5 add6c513e06813f72e9b83504641daeb sha1 dea80f341a6db3faf41d7bb4ee3b97fb583f164c )
+	rom ( name double_fine_adventure_ep17.zip size 1895816038 crc e2fa6a3d md5 dc3e980a1bdf30a95989bf7f68c285c2 sha1 596fc1ee816dba01879b23b64ff36ff406e1ee6c )
+	rom ( name double_fine_adventure_ep18.zip size 1661322606 crc 7167cad4 md5 12dbb87dc808c02efc46978eb871226a sha1 de9ba4cd63589d200cbec37d46e98af0556a0b8a )
+	rom ( name double_fine_adventure_ep19.zip size 3788341611 crc 9b0d6ad5 md5 e4260cc7fe726a10f17ca84b87767373 sha1 6c9f36a29dd1125e0182270eb18c0e0d37cca61a )
+	rom ( name double_fine_adventure_ep2.zip size 1404994074 crc 0c87b8f9 md5 0a2154d98f0b79496b17d6ed4e208621 sha1 57f23f1eca8ddb8f943c5d40f33d498d332d6588 )
+	rom ( name double_fine_adventure_ep20.zip size 3146964175 crc 9796519a md5 658fe930f9bd87b4e186b33372abdd80 sha1 d0994732a40d4c2a69ebb780b310fa3313190425 )
+	rom ( name double_fine_adventure_ep3.zip size 1681606453 crc e8fc87f9 md5 0c04ca88db87a33a9f988c5866f3cd28 sha1 190d69ddf255a16693681c175d33467450eec8e0 )
+	rom ( name double_fine_adventure_ep4.zip size 2723576076 crc 25d362ab md5 d4a9491c14a5eabc90db54844c7c15e2 sha1 8ce8936f4ae9a3984588a52f1c53ebfec340f783 )
+	rom ( name double_fine_adventure_ep5.zip size 1501277337 crc bb0376dc md5 655ec1386e331c620629559e7599dd57 sha1 263a0ae5fb4c15655db8e6070e7a9a42a5d5b0e4 )
+	rom ( name double_fine_adventure_ep6.zip size 1849415040 crc 7ac0607c md5 5d8155e869c56cecfacabc9ae459b656 sha1 61104ebce8153fe7f7f285ab58cd727c3e49a302 )
+	rom ( name double_fine_adventure_ep7.zip size 1933903173 crc 51cef797 md5 59c5f85ae995fa4a7f40976b20e84867 sha1 2d0cae3c5308b5a8141bcbd771436970d9580d70 )
+	rom ( name double_fine_adventure_ep8.zip size 2416859546 crc 06cba7e9 md5 687fccef966abd18ef9c38a14dfb1fd7 sha1 7e4ce11896c873e6518ea265c7abee7a871d2f6a )
+	rom ( name double_fine_adventure_ep9.zip size 2724096208 crc 0f831dd0 md5 73564211bfd13908c4d6cefe34871e86 sha1 be1da61a99c97bcb8f99e3a7eb7e0a7baae06d60 )
+)
+
+game (
+	name double_fine_adventure_additional_content
+	description "Double Fine Adventure - Additional Content [DLC] (Documentary - Gaming - Movie)"
+	year "November 17, 2016"
+	manufacturer "2 Player Productions / Double Fine Productions"
+	rom ( name DFA_Bonus_Vids_pack1.zip size 3583712535 crc b6d136c1 md5 5ea8809aedf4131065c5b2f7a60884ae sha1 8533d5eb0886a7561c2792c036e7d8d07785c533 )
+	rom ( name DFA_Bonus_Vids_pack2.zip size 3255137453 crc 59d30cc4 md5 a4cbf8d5ed9d9b14d436b21407ef9f89 sha1 4a938f39d9eff4eb4c31303c8b8e9d556a0aadb4 )
+	rom ( name DFA_Deleted_Vids_pack1.zip size 3881100216 crc 953fab5f md5 bbf49ff8861e26a1315d8e3a3bd623fc sha1 506ac204afa3f1e29202de206a06a38637bb4fdd )
+	rom ( name DFA_Deleted_Vids_pack2.zip size 3730672902 crc 0a6e340a md5 6b32759603bbd85e1cc494836545c4ef sha1 8b4124d2a2623ddb7625960b30cfcc97b510ecd9 )
+	rom ( name DFA_Deleted_Vids_pack3.zip size 2699259095 crc fb969d82 md5 2b0ed0a6a8023f72bdd45434aa2d2d9e sha1 41453f51f06c4ea33fe3ecc51bcccb31c104b061 )
+	rom ( name DFA_Deleted_Vids_pack4.zip size 3945340211 crc 0e94f67b md5 200e402ec2f88b9c545815f44c8b7abd sha1 d7e0d71b495547e68d7e9c5bcc5401c18646b3e9 )
+	rom ( name DFA_Deleted_Vids_pack5.zip size 1188935750 crc de09a7cc md5 2f008870c08c46fce87065e302466198 sha1 e2ca1b3e448e4583ca75c8ca3d1eae5c870f2eb4 )
+)
+
+game (
+	name downloaded
+	description "Downloaded (Documentary - Gaming - Movie)"
+	year "August 6, 2014"
+	manufacturer "Trouper Productions / FilmBuff"
+	rom ( name downloaded_1080p.mp4 size 3848812674 crc b7e899e7 md5 1c8782768706aa93b32f1e3e3a5a507c sha1 c55d9e9a2f4aad1de18116f7257dce2c4004d25f )
+	rom ( name downloaded_576p.mp4 size 623375857 crc fe18db16 md5 4a295876f0bcd35b522e02c953a8ff4e sha1 9885f618dd25e39ead5f88aaefbae99bd6cb97ba )
+	rom ( name downloaded_720p.mp4 size 1579406194 crc ca08ecc9 md5 b3773a874934ce57b0d8883e0e26d78c sha1 f64faf9679164f67d57a2dcccb288abaddb6e5a1 )
+	rom ( name downloaded_subtitles.zip size 462150 crc b07ea2f6 md5 d1d6cefb668325832cab7dcce82d586f sha1 86ec89c77bbc6366638df7e21e63a021a4105663 )
+	rom ( name downloaded_trailer.zip size 30396967 crc 75661159 md5 c6c4fdba67cac388799a13b5ce2dee3f sha1 70648e2cb0fe08d3a56932e5afd0d3adb9a46e8c )
+)
+
+game (
+	name ecstasy_of_order_the_tetris_masters
+	description "Ecstasy of Order - The Tetris Masters (Documentary - Gaming - Movie)"
+	year "October 21, 2011"
+	manufacturer "Reclusion Films / FilmBuff"
+	rom ( name ecstasy.of.order.576p_subs.mp4 size 637590833 crc bd09a962 md5 a4f6398c903dc186f4ced9cfe65b10e2 sha1 d4d3b69f8977911ca3b449e84bf9313b1522700c )
+	rom ( name ecstasy.of.order.720p_subs.mp4 size 1707290020 crc 7ca7642e md5 93eda4eff287a93cd64fc1d64f54a0cf sha1 9a9ee89554182624912a76487f5693f76539343f )
+	rom ( name ecstasy_of_order_1080p.mp4 size 4303689428 crc 3f7ad6b2 md5 045fdc4485bc3225a3fca32beb8f82bd sha1 5067726a0968027a6f86c66877cc2e5b65c8fce1 )
+	rom ( name eoo_poster.zip size 1152303 crc 3307ee28 md5 1aeb8b25d8384cf148d25f634893791f sha1 360c4569db2bcc3c83d47180544237b44d05ebc9 )
+	rom ( name eoo_subtitles_en.zip size 59341 crc ccc0db4f md5 7b716dd316add21f03f9abb77f64c288 sha1 2519d459b6a2701cea52e3fed22c049d290c8bdf )
+	rom ( name eoo_trailer.zip size 200066293 crc ce78d41d md5 a90c6e33e98d6ecebd895625af3745cd sha1 1cabe4a0a500044ad69a7fcd3f4eb974135acad9 )
+)
+
+game (
+	name fechtbuch_the_real_swordfighting_behind_kingdom_come
+	description "Fechtbuch - The Real Swordfighting behind Kingdom Come (Documentary - Gaming - Movie)"
+	year "February 5, 2019"
+	manufacturer "Warhorse Studios / Warhorse Studios"
+	rom ( name fechtbuch_subtitle_all.zip size 229762 crc e3f32e1a md5 b5b159e4ac3ed4093a61ffb5dceca54d sha1 670d7ebc05de4052d97a5b69a51c3641f0ba2576 )
+	rom ( name KCD_fechtbuch_1920p.mp4 size 1327332649 crc 7e4be46f md5 33761d2fac489443d11f379a54c9241e sha1 6301038696accb38c1d02f04de3a585fe416dfd3 )
+	rom ( name KCD_fechtbuch_480p.mp4 size 442116290 crc 0fd19545 md5 a2b745f6070c573a02de884ed4989b5f sha1 e5c5c9dbb7196fbe0c692d737b721667ecd0ffe6 )
+	rom ( name KCD_fechtbuch_720p.mp4 size 760365848 crc 241cf3d3 md5 057c31025378aa0b48d9be6111ffa00e sha1 6e03d5adccaf74fc31259c3e897760d5b223f5db )
+	rom ( name kcd_fechtbuch_czech_audio.zip size 84954032 crc db491d1a md5 2dec4b0bf5784f741f908ca881b86d83 sha1 38ca4c9fce051412d43d084887ec0c53e0c0125f )
+	rom ( name KCD_fechtbuch_hd.mp4 size 9169151254 crc 910c3e0c md5 866dbec0b9eb503978e8e644c713e121 sha1 5ba1b19b5f8658dc81ab835bf88b6e07842e2400 )
+	rom ( name kcd_fechtbuch_koza.zip size 372616524 crc af83944e md5 dca6301a49ce602fd98be011b9ccbd86 sha1 672307e2c722ce99e1f70650be91d7e7b0ed9f8f )
+	rom ( name kcd_fechtbuch_nusek.zip size 258283676 crc 4b4171f1 md5 6ab3e961817ad8a7494b60a6447ebfbc sha1 6b331cf840de2e8d490ca6c8b2d3d226d58cf773 )
+	rom ( name kcd_fechtbuch_vytopil.zip size 318932180 crc e1b4ea32 md5 a4a09988a7c9601e621768ed5a27af99 sha1 152c75fdc36a19387ec9839ee7f1972465a74178 )
+	rom ( name kcd_fechtbuch_waschka.zip size 363940207 crc 33d53076 md5 32cfae48a694ab371164695ccccc50ce sha1 99478a698a5d9970d8e1ed833da8c3780390311e )
+)
+
+game (
+	name gamer_age
+	description "Gamer Age (Documentary - Gaming - Movie)"
+	year "August 7, 2014"
+	manufacturer "Animatronic Ackbar / Animatronic Ackbar"
+	rom ( name gamer.age.(2014).1080p.mp4 size 2690273940 crc 685c185f md5 ea59a3c09599d65ed6275f3f4adc42ef sha1 f086fac8529df92b92673e4bd484a6975be92718 )
+	rom ( name gamer.age.(2014).576p.mp4 size 483283068 crc 59492dc1 md5 0167d69cc436adf3ed977db65a29af3f sha1 11e70bb7e6a8368c27580aef2b6a91f76ab155aa )
+	rom ( name gamer.age.(2014).720p.mp4 size 1167380623 crc 3b207e7a md5 58d9a3ac7e50e6091a5fc64c03a82265 sha1 8d173840afb4f84d8e4a4aa254bcca40d5f6ac38 )
+	rom ( name gamer_age_abandoned_animations.zip size 1144721 crc ace435b3 md5 da7c89d41173406c46c7de78b5ca93c7 sha1 cce40f02807d4220d88c7dcc6dbcfc4096c0ae2b )
+	rom ( name gamer_age_bonus_clips.zip size 1676108940 crc 501aa64b md5 cd9773334a9b8865e613514b5838f5f5 sha1 8d106169800d249def813a9df8cb30ef93e3b393 )
+	rom ( name gamer_age_poster.zip size 1222377 crc 191a53f1 md5 223bb155cb4fe1ce609044c8f6b01359 sha1 9209807817e59d7384cb2f7a6a6fa54655c44d4d )
+	rom ( name gamer_age_promo.zip size 265684102 crc b03ad346 md5 68ba946f5823b6063e56e0d0acbe0bff sha1 8ba7446d90d32336359680ffad8881ab38f3cdc2 )
+	rom ( name gamer_age_trailer.zip size 69727611 crc 5ba84e9e md5 60eeeadc06576c3e0c40f89bb3eaaf2e sha1 e7eb041b07119e9ec9a20a0b918bd39dd4a23391 )
+)
+
+game (
+	name going_cardboard
+	description "Going Cardboard (Documentary - Gaming - Movie)"
+	year "January 12, 2012"
+	manufacturer "T-Cat Productions / FilmBuff"
+	rom ( name going.cardboard.(2012).576p.mp4 size 533657291 crc 8a896bf5 md5 07288ee9018095156d3029f267a4a4a9 sha1 a446fada4a75a1b2738bc4489b2ddbf70eb88e32 )
+	rom ( name going.cardboard.(2012).720p.mp4 size 727575815 crc f8ad460d md5 21b614278031055f94691254274cde9c sha1 028c781fe9ad9f52f4c1f460101681a45ae58d9c )
+	rom ( name going_cardboard_poster.zip size 301835 crc 4497d36e md5 1b920544ffa354a170b90074d2040db2 sha1 5c130341bb2c7a1fe2424186983b6a05af7de1c8 )
+	rom ( name going_cardboard_trailer.zip size 178627933 crc ef424673 md5 4f98a55067f862a8b5ad650073f46d88 sha1 7ee207338f5f32002f4d31be3d80476c1973df77 )
+)
+
+game (
+	name good_game
+	description "Good Game (Documentary - Gaming - Movie)"
+	year "March 11, 2014"
+	manufacturer "Nine Hour Films / Devolver Digital"
+	rom ( name good.game.(2014).1080p.mp4 size 2880315763 crc 23f4e719 md5 02d4124b674465123f786f50086ff26a sha1 214126fa5d8758d2ddedb4d8cc4b1f595743c0ab )
+	rom ( name good.game.(2014).576p.mp4 size 473914171 crc 2477ad56 md5 0eeb0cb57b3641fbc63201d426312bc5 sha1 ef0714eaed7b59e3376de17e4e674385d7fb2d46 )
+	rom ( name good.game.(2014).720p.mp4 size 1189423543 crc 407473ad md5 57d2ceb06fa4836e8fcfc9312862e139 sha1 79de69ceb0ed6e01f9adb4cde6c412c21593d050 )
+	rom ( name good_game_posters.zip size 5463755 crc ea78bf6a md5 634954e64e7f9c9ca0c8c61171cc809c sha1 1874eaf5247ebb92bc5a0d7daa3bd65abd575d2a )
+	rom ( name good_game_trailer.zip size 100370077 crc e6af0e1b md5 6aeb5411dc8b638c4247ee9a8a124d68 sha1 98ff5da51c4317715090523a0e36941efc3b0f9e )
+)
+
+game (
+	name indie_game_the_movie
+	description "Indie Game - The Movie (Documentary - Gaming - Movie)"
+	year "Indie Game: The Movie"
+	manufacturer "Flutter Media / BlinkWorks Media"
+	rom ( name igtm_bonus_clips.zip size 584993799 crc 0e829451 md5 6f439f4be9e3918541ee51cb74f667b6 sha1 98ff94f2da8d1155687bb76296fad437158e8b60 )
+	rom ( name igtm_commentary_tracks.zip size 189695447 crc b4334c99 md5 d1bb50d04ed7fef2bd79ac112fee88ff sha1 525230d63187e9dc5b48afc4e3d3f6405dba137f )
+	rom ( name igtm_trailer.zip size 117386935 crc cda98350 md5 1e75ed469d8d10ce5ac8dbf17b32e765 sha1 c8996f2547c586e937a1da6d6611da97cd98ff6d )
+	rom ( name igtm_wallpaper.zip size 1007850 crc c0c66ebd md5 6c52d3354e5211799f203a48eb67754d sha1 36e33bd44f0f72212218e2b756f70d315c10580f )
+	rom ( name indie.game.the.movie.(2012).1080p.mp4 size 3038250137 crc 8bd2c722 md5 fd65389723fff5d26a8f7c5bde0892e1 sha1 ca3a6b75e18eb36d6b9528ecb5a2e3b76f9b2496 )
+	rom ( name indie.game.the.movie.(2012).576p.mp4 size 663526456 crc ef271a6d md5 c8fa5fcc974e0a7550b5d59232465dd5 sha1 8a9330a971d484f819abce7f4d7ab39f645c23a1 )
+	rom ( name indie.game.the.movie.(2012).720p.mp4 size 1510570020 crc c3e02227 md5 59c0a2515d83994d7833c119e4598f13 sha1 ee7fba130bfb001b7d5351556f8ec48e53592d4c )
+	rom ( name indie_game_the_movie_subtitles.zip size 1237818 crc 1144fef7 md5 54bd3a774f79152c4bab9ce7ade6a484 sha1 90606a9b5e2337c748645b9e301350c03f7ac354 )
+)
+
+game (
+	name indie_game_the_movie_special_edition
+	description "Indie Game - The Movie - Special Edition (Documentary - Gaming - Movie)"
+	year "August 8, 2014"
+	manufacturer "Flutter Media / BlinkWorks Media"
+	rom ( name igtm_bonus_clips.zip size 584993799 crc 0e829451 md5 6f439f4be9e3918541ee51cb74f667b6 sha1 98ff94f2da8d1155687bb76296fad437158e8b60 )
+	rom ( name igtm_commentary_tracks.zip size 189695447 crc b4334c99 md5 d1bb50d04ed7fef2bd79ac112fee88ff sha1 525230d63187e9dc5b48afc4e3d3f6405dba137f )
+	rom ( name igtm_se_epilogues.zip size 587831090 crc 29df5b3a md5 a05a8e723b6e5db1285516cf7ccf2ad4 sha1 ed282081265d645c5a4db39b9513c1e6e0432e57 )
+	rom ( name igtm_se_poster.zip size 3497603 crc f0a1b85f md5 8ab08949a7a7b992255112f44507fca2 sha1 717eac4076a9934b4f88b3a2a4e2f6c9267a0e32 )
+	rom ( name igtm_se_segments.zip size 2490602183 crc d739a32c md5 7fc7dd4261a367b1b093d25ade968b2f sha1 7262c89064df1f4c504ad19a350952ecd419c873 )
+	rom ( name igtm_se_trailer.zip size 39522393 crc 84477272 md5 a26554522a1d055772dfae5f57256d31 sha1 70431852f7104fd8275f843faa90d4e2dde79829 )
+	rom ( name igtm_wallpaper.zip size 1007850 crc c0c66ebd md5 6c52d3354e5211799f203a48eb67754d sha1 36e33bd44f0f72212218e2b756f70d315c10580f )
+	rom ( name indie.game.the.movie.(2012).1080p.mp4 size 3038250137 crc 8bd2c722 md5 fd65389723fff5d26a8f7c5bde0892e1 sha1 ca3a6b75e18eb36d6b9528ecb5a2e3b76f9b2496 )
+	rom ( name indie.game.the.movie.(2012).576p.mp4 size 663526456 crc ef271a6d md5 c8fa5fcc974e0a7550b5d59232465dd5 sha1 8a9330a971d484f819abce7f4d7ab39f645c23a1 )
+	rom ( name indie.game.the.movie.(2012).720p.mp4 size 1510570020 crc c3e02227 md5 59c0a2515d83994d7833c119e4598f13 sha1 ee7fba130bfb001b7d5351556f8ec48e53592d4c )
+	rom ( name indie_game_the_movie_subtitles.zip size 1237818 crc 1144fef7 md5 54bd3a774f79152c4bab9ce7ade6a484 sha1 90606a9b5e2337c748645b9e301350c03f7ac354 )
+)
+
+game (
+	name ink
+	description "Ink (Documentary - Gaming - Movie)"
+	year "January 23, 2009"
+	manufacturer "Double Edge Films / Double Edge Films"
+	rom ( name ink.(2014).1080p.mp4 size 3680100602 crc ef925d84 md5 0217255c5b8beb88b4dfd597bd038275 sha1 2e80fed9cf022214ef053a8a9be0140b0b026ede )
+	rom ( name ink.(2014).576p.mp4 size 1562689464 crc 31060430 md5 88363ccef0d07f0b17812d9f0b53f1a6 sha1 4b975f49519078af20aebdc57e7e8e6ca16515c6 )
+	rom ( name ink.(2014).720p.mp4 size 1707937209 crc 171f4edd md5 e9bccf5811f22728c552c5c85fa26016 sha1 3fd45d7757ed980defe55ee856e11d193e310094 )
+	rom ( name ink_ost.zip size 52347184 crc 80379fc6 md5 fd18e37c149988871dde999a6640b4c8 sha1 918c74c8763b039c017adb453f9a3a7bae7ba19a )
+	rom ( name ink_poster.zip size 1077008 crc 761ba129 md5 a113554ed4bd6e55e56a707461f9d9e6 sha1 da5bb7134efa8e9824c0480c36ce0547d114d189 )
+	rom ( name ink_trailer.zip size 35568409 crc 5fbc1e7e md5 64db4fa842f935dcfa8bf125aaa6b5bf sha1 86dfc4689c0509b27e2ce000f74960c21a19fcfa )
+	rom ( name ink_wallpapers.zip size 6753704 crc 2543791a md5 01e44ca12a16b0994d13f3965a303e57 sha1 a506c5c838a4810a587698518a5381aeabd8fc7d )
+	rom ( name subtitles_pack.zip size 50743 crc 5e1f34e9 md5 10b9983b6a8185aa4ffd8ecb478f9537 sha1 77b78e3c15666571138330009631f1d8dfacd517 )
+)
+
+game (
+	name journey_to_planet_x
+	description "Journey to Planet X (Documentary - Gaming - Movie)"
+	year "April 20, 2012"
+	manufacturer "Brooklyn Underground Films / FilmBuff"
+	rom ( name journey.to.planet.x.(2012).1080p.mp4 size 4158154816 crc 1c117d76 md5 f30f196669ac931a84c1ddb5796ab61e sha1 57d0b8bd3ad6b7adb2913b8a31cf3198732c33c3 )
+	rom ( name journey.to.planet.x.(2012).576p.mp4 size 602678420 crc 7bd1ea87 md5 56b5a748437d321df2c4fe579140e9aa sha1 cc487a89126ade562232642b476b0f3ff65fa09c )
+	rom ( name journey.to.planet.x.(2012).720p.mp4 size 1704436176 crc 54906420 md5 ebdf9faa5bdfaf8ade2c7268687e6bbc sha1 893e4fb536fbbf27cf4d487092b53de5073b13ad )
+	rom ( name journey_to_planet_x_subtitles.zip size 51000 crc eff772dd md5 67c2a26b1a025abf1daed54bca2b2799 sha1 9111a5d0c8e76120bd4d0d4fd697da8afd65bcc3 )
+	rom ( name journey_to_planet_x_trailer.zip size 93522951 crc 5cddfa88 md5 d7d4144751a66d88e49bb618fb39338b sha1 fc7eac9d3b9f6f3070ad1cdcd99214d575fe9fe7 )
+	rom ( name journey_to_planet_x_wallpaper.zip size 1981049 crc 908dbff4 md5 cc8e22c77b3a0c10209ca349d46277e2 sha1 9ef879201fb1079969a2875932a620022890f526 )
+)
+
+game (
+	name mars
+	description "Mars (Documentary - Gaming - Movie)"
+	year "December 3, 2010"
+	manufacturer "Swerve Pictures / Devolver Digital"
+	rom ( name mars.(2010).1080p.mp4 size 6037107617 crc defa8c76 md5 091792e9c58e6d9d7fe2bd30abcce787 sha1 8724d3843055bbe8d62e1592a5ca0e4a2b38862d )
+	rom ( name mars.(2010).576p.mp4 size 1060115656 crc 4c3514f1 md5 a6682c9191c58e0a07d15eb6ddcb57e3 sha1 d62192ae070a59b5b74b96bc75ba1e4c432689a4 )
+	rom ( name mars.(2010).720p.mp4 size 3210417490 crc c4ee050c md5 051a768a0b762b01e73dd1d806166956 sha1 6175eb4eeeff6cd5f26f9cefb589652f44e462a0 )
+	rom ( name mars_poster.zip size 3083220 crc b5897f61 md5 266a7e01fdb402eddc057a168f1994c6 sha1 a7734d27c31f72b6cdef133b28802a07ac324e33 )
+	rom ( name mars_trailer.zip size 1274977689 crc 08610320 md5 9c8b5f1a81585f6ca5cdda81ff0b980f sha1 aa71b8bf40d2f01eacf6a2867b87aa90e71473fe )
+)
+
+game (
+	name minecraft_the_story_of_mojang_deluxe_edition
+	description "Minecraft - The Story of Mojang - Deluxe Edition (Documentary - Gaming - Movie)"
+	year "December 22, 2012"
+	manufacturer "2 Player Productions / 2 Player Productions"
+	rom ( name minecraft.the.story.of.mojanr.(2012).576p.mp4 size 780720181 crc 38ab8dd7 md5 849303eb290184be0ca36d8989217440 sha1 f36acc14e8a7af988a76e5f44c8ecdf8f3b48950 )
+	rom ( name minecraft.the.story.of.mojanr.(2012).720p.mp4 size 1795619278 crc 5cd2105c md5 4ce64a417e250084e9f378bfe6bc7c96 sha1 aae05c6504b39acbe5bdd5bec048d6e955df697a )
+	rom ( name minecraft_the_story_of_mojang_subtitles.zip size 43650 crc 04d9bec2 md5 381e6c24a490d63e1ce8057c475232d9 sha1 82bd2ddd33b3f9cf7ec5b4ab2a100019b619f94d )
+	rom ( name minecraft_tsom_commentary.zip size 1716715551 crc 78c26f21 md5 554d8dea25b970e643d697dfc06f420c sha1 d8d49d12fa66600e73ada2289725acb4e8558b8e )
+	rom ( name minecraft_tsom_deleted_scenes.zip size 103913198 crc 97ebd072 md5 0a00e85e14f4cde23d53b90c9f20e27d sha1 bb360d2160068f6a801f70ea2e0c445503e7e2f7 )
+	rom ( name minecraft_tsom_family_friendly_version.zip size 1837181158 crc 8462af18 md5 fa31d5646470eab4f89673ad580ad165 sha1 2ff91bdefca0967719909a7b833f873748f9465d )
+	rom ( name minecraft_tsom_making_of_scrolls.zip size 251659646 crc f147571f md5 cde697d08c9b114d82f9ff6d1cbae89a sha1 289472400921f7fbd10f24e99f1a8284430fab9d )
+	rom ( name minecraft_tsom_notch_final_conversation.zip size 64190459 crc 6c5387f5 md5 70f314e8fd8df5b597272906f8150d4c sha1 40e7d2eb70d8c727bdac898c9c59c9d93feb81a6 )
+	rom ( name minecraft_tsom_porting_the_game.zip size 34513107 crc 7cb68a9d md5 0cff9f505aabf8b57ed2d0587edbf9af sha1 99e9f0c773e1337e4de2c760417c356aef55ae76 )
+	rom ( name minecraft_tsom_trailer.zip size 35591821 crc 9ee7a4e3 md5 930c38626d5978520da6347bb0998f29 sha1 d9209775de0d299b1e369373d6e0c43c8b45808a )
+	rom ( name minecraft_tsom_wallpapers.zip size 14006929 crc 8f3088a8 md5 87e1bc141cd728b24ea71c936b60b48a sha1 48cf7393a92fac5bbf8a184b5c9d43a27c1f9540 )
+)
+
+game (
+	name motivational_growth
+	description "Motivational Growth (Documentary - Gaming - Movie)"
+	year "February 15, 2013"
+	manufacturer "Imagos Films / Devolver Digital"
+	rom ( name mg_commentary_track_flac.zip size 495144208 crc ecabda64 md5 487c187ad8ac034b81d8a1b4ddaa0050 sha1 eea3807086b241dab3fa897ce67be252abe04f4c )
+	rom ( name mg_commentary_track_mp3.zip size 250772159 crc ba22cdd0 md5 fbb8434d01b3bd23a724f87c79a1c00d sha1 6b5a9f31f65304d43624c02ffeec440774180881 )
+	rom ( name mg_making_of_vids.zip size 2313925019 crc c9b86ce3 md5 40465ff5e6edc7ca51ae49af8418af5b sha1 61a5ceeb2b7ff27f7be5cd1050a8584600e432a2 )
+	rom ( name mg_original_trailer.zip size 1839252575 crc cfdec558 md5 f09d8718190fa800019ef55e352da104 sha1 681fd031b3ca47f323169fa339392d2f249536bc )
+	rom ( name mg_posters.zip size 18107053 crc 155499e4 md5 fdc258b7c2b279885bb12c8d17e9d2dc sha1 1457de8a556661c1e3fc60c187a8f9092036fb4b )
+	rom ( name mg_shooting_script.zip size 99229 crc b6fc836c md5 33fdedc2448da256f8a5ee3405c644ce sha1 8d813f8bd1577a3ef95ba39d70b6df5abb223ade )
+	rom ( name mg_subtitles_english.zip size 81636 crc ef2f57ec md5 72376cfba8e8753e48f8d602aefaac59 sha1 efa080bb8cdd138daed683d85e2beb293ac6be24 )
+	rom ( name Motivational_Growth_1080p.mp4 size 2418849059 crc 8afd6562 md5 a7de1bcc75cb1a95b79bfc07436cad48 sha1 b511c3f31eca24bca43953ffcf2e0d4b9633e8d7 )
+	rom ( name Motivational_Growth_576p.mp4 size 423962026 crc da3e76a2 md5 6bc4935f294da07a29c7ea07bdb3bc05 sha1 0f1a7383ece3a422a2483fc1673d2b8d6dda9710 )
+	rom ( name Motivational_Growth_720p.mp4 size 978970410 crc f36c2ce9 md5 6a695d1806d5ba2872f26f89ac219626 sha1 94d6085bdeb3759553b6f67a3cfa2687f33248f2 )
+)
+
+game (
+	name my_other_me_a_film_about_cosplayers
+	description "My Other Me - A Film About Cosplayers (Documentary - Gaming - Movie)"
+	year "July 13, 2013"
+	manufacturer "High Deaf Productions / FilmBuff"
+	rom ( name my.other.me.a.film.about.cosplayers.(2013).1080p.mp4 size 3679371481 crc 2bd38180 md5 0f32b168e51850ea0627f8b248677cff sha1 8e55c62eefe518c1f33123caca93fc70633a507c )
+	rom ( name my.other.me.a.film.about.cosplayers.(2013).576p.mp4 size 655067055 crc c52971d1 md5 6f93b2a2794f7ab6ac541b5c71eabb52 sha1 1008ea8a5cdc18f8ad24ab67dbcf6f22b15990e3 )
+	rom ( name my.other.me.a.film.about.cosplayers.(2013).720p.mp4 size 1597820598 crc c6c97663 md5 79a4104b2e79b47cf21e470265fa601b sha1 6264d4e19a5a6e21cee3ffba0909168bf094fc6b )
+	rom ( name my_other_me_poster.zip size 27085695 crc 6655d8ab md5 77961e352ecba88947dabd79087e1227 sha1 20471eb449427d1ee257c213d4497caf02d87201 )
+	rom ( name my_other_me_trailer.zip size 98954033 crc 7d193049 md5 23ad6b9c8c86838628189e276db65888 sha1 31ac8fbaa7f341094be72239d6d40c7d5c47ae10 )
+)
+
+game (
+	name once_upon_atari
+	description "Once Upon Atari (Documentary - Gaming - Movie)"
+	year "August 10, 2003"
+	manufacturer "Scott West Productions / Scott West Productions"
+	rom ( name once.upon.atari.ep1.(2003).576p.mp4 size 227291128 crc f807714a md5 617ef694ea1efaf8410681b21b43be00 sha1 ffbea119f03c4b06d8d845dd4bf4fef12f7c7975 )
+	rom ( name once.upon.atari.ep1.(2003).720p.mp4 size 398127599 crc 681205a9 md5 92ec8871ee35f98edbe820b23a7d542a sha1 b1e3be7d425da5e42f042d1050c3627307c319a8 )
+	rom ( name once.upon.atari.ep2.(2003).576p.mp4 size 243716176 crc abfa9df4 md5 248f2f2fa79eaf1935dbee46b9b0b759 sha1 ffb83cac4384a7b393270ee190287a06064c0584 )
+	rom ( name once.upon.atari.ep2.(2003).720p.mp4 size 426103083 crc 59c126aa md5 27cbc0b6f39881ce51d6c225fa2cbc0f sha1 3d4d28237a25d3bc14cb4724c0ba73a7cf044f85 )
+	rom ( name once.upon.atari.ep3.(2003).576p.mp4 size 196034195 crc 48c9e680 md5 b1e86e4dbd62ab679c9e876e15f47a82 sha1 ef52a2d1e85cebef7e0b1c3a113ee02885c375ed )
+	rom ( name once.upon.atari.ep3.(2003).720p.mp4 size 347082273 crc 13fb658d md5 209332b7745ff344804388fd087a318a sha1 f30de00025e424be9583859cc4c75fffd9b440e3 )
+	rom ( name once.upon.atari.ep4.(2003).576p.mp4 size 243410582 crc 6a672527 md5 06357178c00d408a0200d4b1bd709afc sha1 6d44de7cbef0970aade0adadbd11835be0e4b103 )
+	rom ( name once.upon.atari.ep4.(2003).720p.mp4 size 459504811 crc 7d98c1a0 md5 9f50f5ac7d819c0d9592bed5787638bd sha1 ba93ff365572c60c3e4e5f4ce8c0ba1157a63cdb )
+	rom ( name once_upon_atari_photos.zip size 18636694 crc 15c1c8f3 md5 484ebf431e67c83f3c76097a4b0441c5 sha1 e2f8470640bf8929f1dbc71b43936501aa7ae4fc )
+)
+
+game (
+	name one_couch_at_a_time
+	description "One Couch at a Time (Documentary - Gaming - Movie)"
+	year "January 2, 2013"
+	manufacturer "EntrepeneuREEL Productions / Devolver Digital"
+	rom ( name one.couch.at.a.time.(2013).1080p.mp4 size 3179725805 crc 657938a9 md5 9c667d9e2c1b36bd90e20e2a8ca16f96 sha1 958d594f2c31e8e3432083abbc3bbf779bf5f0c8 )
+	rom ( name one.couch.at.a.time.(2013).576p.mp4 size 751548185 crc 6fcd9711 md5 2ee53b75b30e702077ad14309bcf09aa sha1 81f773865b1555cea78829966f877d46c0596bd8 )
+	rom ( name one.couch.at.a.time.(2013).720p.mp4 size 1707940781 crc 883a59b2 md5 e0dec4e6b94e6b0c8616cd603a75322d sha1 840e81fe04bd974f4645a823f5f1db03bb2a82bc )
+	rom ( name one_couch_at_a_time_trailer.zip size 122993389 crc 4454c21b md5 921d89821e52852483df3305a1dc21e6 sha1 047834c60801bed1a6d29a5b1dc55032ccf6a22b )
+)
+
+game (
+	name pixel_poetry
+	description "Pixel Poetry - Special Edition (Documentary - Gaming - Movie)"
+	year "August 15, 2014"
+	manufacturer "Gamestar Arts / Devolver Digital"
+	rom ( name pixel.poetry.(2014).1080p.mp4 size 2293288340 crc 99bc8921 md5 552876bbb9bc0a0eb2ec71240cbe32ba sha1 bae59ef3c1c939c065c3a326aa3eb1d742870a3c )
+	rom ( name pixel.poetry.(2014).576p.mp4 size 487735444 crc d2396d37 md5 2bd91ed704529e46466e6d6f55194788 sha1 f3c8f5d63afc6f871dd7ff67945691b1c7c7428c )
+	rom ( name pixel.poetry.(2014).720p.mp4 size 1097108119 crc 42153d10 md5 fb90d404539113e5ed6cfd39a99ffab1 sha1 8ed6e3a303ed88bf5f69ad7ce0ea8a2498d68d49 )
+	rom ( name pixel_poetry_posters.zip size 26839867 crc ca0c2f00 md5 619a25203e5a3eee6600d5817228b6db sha1 ba2b7ff9501a446d078213e153a123b3e1d17117 )
+	rom ( name pixel_poetry_se_audio_commentary.zip size 2147420881 crc b05feb51 md5 92f06215fb09d8b644083d4fa8ec048b sha1 e4b4b903910870f282ecef03cedddd4a74e7dd0a )
+	rom ( name pixel_poetry_se_cast_interviews.zip size 6947059756 crc 91a9fa65 md5 854e4df75879d7244586f35a777c3dd5 sha1 05664ebdae364bbd250ecd7294a9b024030737d5 )
+	rom ( name pixel_poetry_se_making_of.zip size 3217940574 crc 80c94adc md5 08b7f6b6472ac264c20e297501852a42 sha1 4c87d60ff20c71e23df8fb066e91260246aabcda )
+	rom ( name pixel_poetry_se_posters.zip size 17527054 crc b3bf9c2b md5 aa76b2367b1d38ebd02584cbb6173841 sha1 e52b99920e70e08a508c1e1f8f47e5f3ba9b5590 )
+	rom ( name pixel_poetry_se_stories_from.zip size 1548739545 crc 3cfe1957 md5 8c73072e58676aacd58ab484f410179f sha1 94452de02102fd00f7982281ec6d31bea94e51e6 )
+	rom ( name pixel_poetry_se_trailer.zip size 91183173 crc 366423b0 md5 a07fa9a35540174596a9b671b4d1d7b9 sha1 0e1fa64ff51724865dca399fcec7ae0117a54d68 )
+	rom ( name pixel_poetry_trailer.zip size 126377004 crc f1f6449c md5 0ab45ee8da6a9ca8d4a0001e8624ad36 sha1 e9b78cd5152331c04b60c1dce05cff94f3bd7af7 )
+	rom ( name pixel_poetry_wallpapers.zip size 6628408 crc 388b3d75 md5 d5d9b9778ab184f1886dd4e11943a3d3 sha1 e7d22c2b7454d49570a5038a70ec805500e72991 )
+)
+
+game (
+	name playing_columbine
+	description "Playing Columbine (Documentary - Gaming - Movie)"
+	year "November 7, 2008"
+	manufacturer "Emberwilde Productions / FilmBuff"
+	rom ( name playing.columbine.(2008).1080p.mp4 size 4299722198 crc 28fe770f md5 a6aa546fbeb6baad2a69c8f9427cb1f7 sha1 169cbba57b3d429e2bc84655cae775280efcd7ea )
+	rom ( name playing.columbine.(2008).576p.mp4 size 780197366 crc 2fb72f6b md5 458aef0389f1a3c6dcf0a8b58bb02a3b sha1 d292239ec3dd3d53189a07354c060c48ab193db5 )
+	rom ( name playing.columbine.(2008).720p.mp4 size 1995222240 crc 567d2aa4 md5 6be24346f11f89bcc26ef04b1cdd87c2 sha1 b19666730184e5d926182673c62c19d5ddcc2633 )
+	rom ( name playing_columbine_poster.zip size 3234274 crc d94dc32f md5 8ccf25d85e17faecfd41e268a6eac011 sha1 b56d1d5cbe6f33080c20db80e29ebbcde984dc3e )
+	rom ( name playing_columbine_trailer.zip size 99188771 crc c91c5dda md5 03040e2665b62a2feaf73e6a942db654 sha1 da02c085e11eca7bdd97ddd170034f889688155c )
+)
+
+game (
+	name please_subscribe
+	description "Please Subscribe (Documentary - Gaming - Movie)"
+	year "January 31, 2012"
+	manufacturer "Dobi Media / Dobi Media"
+	rom ( name please.subscribe.(2012).1080p.mp4 size 3036383959 crc 06a2b7c5 md5 1d447130fd1428a56419225341bf0977 sha1 9a74473b6385d4171c5248e3ca8284b96aa48013 )
+	rom ( name please.subscribe.(2012).576p.mp4 size 569730574 crc bc2472b0 md5 9e6966511b729059762320a69882dea8 sha1 3d80cc68528d3a2d9d42d7dc8ac8a293ebd95d94 )
+	rom ( name please.subscribe.(2012).720p.mp4 size 1373738568 crc 1e819edb md5 2f180fa4a4ee22d8b23f5da8a537f6cc sha1 5efe344ba2ac284d0a61c165cfb6441a383e9687 )
+	rom ( name please_subscribe_poster.zip size 78772157 crc 12f1799d md5 3c37867ecc35bd8ebf6c91200fd3add2 sha1 4b1f5a7fd5d118016db2f3138a714f0e00b069aa )
+)
+
+game (
+	name programming_the_nation
+	description "Programming the Nation? (Documentary - Gaming - Movie)"
+	year "August 19, 2011"
+	manufacturer "Ignite Productions, Digital Media Factory / FilmBuff"
+	rom ( name programming.the.nation.(2011).1080p.mp4 size 4355594414 crc 24fd1e55 md5 bc2fb8578e389261c314381d3b123c7d sha1 19cbf5e9de95581c84ac22cf619eb60507e2f9fd )
+	rom ( name programming.the.nation.(2011).576p.mp4 size 899361076 crc 7602e5a6 md5 181a5160e9ca72f5314e18cc26ae0b7a sha1 54f11cacf50d95b16301ba62c1d3d55945e4240d )
+	rom ( name programming.the.nation.(2011).720p.mp4 size 2121664513 crc 69d440de md5 ba96d06a29b046891b7d438481b84c26 sha1 423f708b8acef0662f6c04e80591b0ef1a8ef91a )
+	rom ( name ptn_poster.zip size 23265068 crc cdee1699 md5 5d490ef5a372ae0e156f4fb7754d34d6 sha1 ec3a7e54a479b0441500983a5e7830a56bb9d857 )
+	rom ( name ptn_presskit.zip size 5495709 crc 589733c5 md5 228807a02acf125ed89585f24c03a648 sha1 190fd5cd8e56f4a47dce92994c2d77fe1667d05c )
+	rom ( name ptn_production_stills.zip size 77176561 crc d8e9996f md5 37291507a23d99c069238f4e023752a4 sha1 41b24f2a2f9055f8952cb1e2e658ef08a0e897c6 )
+	rom ( name ptn_subtitle_pack.zip size 61258 crc 2552930b md5 63a59fe5010b80305eb91f05d1c64054 sha1 9c248e0033428be6aaaa17f69962df8add46f6a3 )
+	rom ( name ptn_trailer.zip size 257165200 crc 56fd6565 md5 84421aab579ddfae2b401505dcdd9f9c sha1 c9909bc543dbca486a0392512045a2b55d68a7be )
+)
+
+game (
+	name rewind_this
+	description "Rewind This! (Documentary - Gaming - Movie)"
+	year "March 11, 2013"
+	manufacturer "IPF Productions / FilmBuff"
+	rom ( name rewind.this.(2013).1080p.mp4 size 4261318578 crc 62b7f173 md5 9d68d3782008fde3c6fb972c9b16e55b sha1 11f99023f34343d0a712cafe3ad47ceac00b8d07 )
+	rom ( name rewind.this.(2013).576p.mp4 size 718284883 crc bc629fa9 md5 de5f2845d7959792a45ddf3bbc34e5f8 sha1 94b8f5c71084256139aafdc753e501e9b9999f1d )
+	rom ( name rewind.this.(2013).720p.mp4 size 1840537750 crc ed90e372 md5 5378ad1e44440cab755a14bc93702280 sha1 fdea3949380cbc04689967672de08bc5989c02ff )
+	rom ( name rewind_this_poster.zip size 104265370 crc 2291e2ec md5 f8df2b993f465085e03912d5551465ec sha1 ed9a4026c715d51de32397423e9e3b310b3d3c44 )
+	rom ( name rewind_this_subtitles.zip size 187296 crc 3dad1719 md5 4a69504b5f23d8a78e56ab649aa57fd0 sha1 d96c7f0070133bd276a0dcd30d44dcab9ab97f06 )
+	rom ( name rewind_this_trailer.zip size 89583415 crc 7516f28c md5 581284915d78dee08e54663a28387c36 sha1 55018b739ea8d294d5ca1b383d3c28496c709d48 )
+	rom ( name rewind_this_wallpaper.zip size 3317207 crc fbf94ce8 md5 971fb0a5d95d3da887bcdb12d5d54e23 sha1 f530dd5621245f2deb8f6fbe9b2dbaacfcd4f278 )
+)
+
+game (
+	name starring_adam_west
+	description "Starring Adam West (Documentary - Gaming - Movie)"
+	year "March 14, 2013"
+	manufacturer "Chromatic Films / FilmBuff"
+	rom ( name starring.adam.west.(2013).1080p.mp4 size 3655519025 crc bcc5111b md5 4b135ede6988bcb7e2be410fee78172f sha1 10ed94eea94b97b59ae0ddc23ab1df5ca8b3b72e )
+	rom ( name starring.adam.west.(2013).576p.mp4 size 682878819 crc a0cb644e md5 34c11740992e3f0214205fb21b9897e6 sha1 8ccae7ff337625a247b6e45eba0eac4b34590447 )
+	rom ( name starring.adam.west.(2013).720p.mp4 size 1632674479 crc 05548e93 md5 fcc86159308ce880c21093e2c7272a5f sha1 3ef4d80ef8ec93232f301530f4aa9d0ee422e937 )
+	rom ( name starring_adam_west_poster.zip size 26419498 crc 66fec2a8 md5 d079d136c8227b57fe6ef5618ee1eef5 sha1 23396e76293ee4bba5085b4d3e9be862d38d8fda )
+	rom ( name starring_adam_west_subs.zip size 45663 crc abb80aa2 md5 f123d9d2a78271b51a57d55a8eff8a52 sha1 df26e206e0f94689a556706cfd9094c0fbd52f92 )
+	rom ( name starring_adam_west_trailer.zip size 242046969 crc d93693f5 md5 25ab6f7db9ab0d9946f7f29cb036d031 sha1 8e01e47dd4fe140863062a4aa4a1979e3c5c3882 )
+)
+
+game (
+	name state_of_play
+	description "State of Play (Documentary - Gaming - Movie)"
+	year "September 10, 2013"
+	manufacturer "Visualantics / Visualantics"
+	rom ( name rotk_bonus_movie.zip size 4336204964 crc b4e3b19b md5 22aabec161c0252df43e284debcc1dcf sha1 65d6cc1b30a28e5b2f1bfdc44953a76581cdd366 )
+	rom ( name state.of.play.(2013).1080p.subs.mp4 size 2689126669 crc 0eb3879d md5 9b0e166173cfecc8cc1e586258ee5d6a sha1 ce107e413e43f394a24a00681b4a45c55d040fe0 )
+	rom ( name state.of.play.(2013).576p.subs.mp4 size 657736768 crc 8b8936c8 md5 9eeb6998aebea32f08ef1f3ddf7325c1 sha1 498e497bb30835c2a5e1a03b4d0d30035565c00f )
+	rom ( name state.of.play.(2013).720p.subs.mp4 size 1369918521 crc 00dd4e52 md5 e3d767ed2eb71a975ccff0eec3fa0c54 sha1 ae59fb18b9eb9e6e50644a951eb2e6d9c7a6c692 )
+	rom ( name state_of_play_poster.zip size 8504252 crc 47f6028c md5 1a6b17c7043ddd947f779ba2ee014bd2 sha1 52d554afd1155f36383fd4988c8877e03df29410 )
+	rom ( name state_of_play_presskit.zip size 941003 crc 417d076f md5 b0948f459a5f240189151a34bf70b5bc sha1 b1d4edde457043f448e51c65456cd76be47d6e5f )
+	rom ( name state_of_play_subtitles.zip size 194406 crc e5cc938f md5 a91c700c55bf3253bc43bf4cf960a05d sha1 3f59ca016a1df8e19514080e6940a3f221488ebc )
+	rom ( name state_of_play_trailer.zip size 325004803 crc ce393d78 md5 8f6d1ac921eb3a14d3ddfbbac927276c sha1 e1553786c3fb685ed96eb29a31be83acdba6f59c )
+)
+
+game (
+	name stream_dream
+	description "Stream Dream (Documentary - Gaming - Movie)"
+	year "September 5, 2014"
+	manufacturer "Final Training / Devolver Digital"
+	rom ( name stream.dream.1080p.mp4 size 1765513480 crc c46353b4 md5 f5ab1827d31f055dbbec5c2f76fe954e sha1 6e0ab15d9781ea0e5aee60617b5d6860410c7153 )
+	rom ( name stream.dream.576p.mp4 size 384567560 crc 3d434271 md5 e6d7f18049978ba1d86cbeedad5eeb59 sha1 a7dfd7f0e2dc84ccd7b55d090ee094d2d723a0ed )
+	rom ( name stream.dream.720p.mp4 size 857592065 crc 91fe7024 md5 cc0197127ae9c2ff8ae571d57433bb6f sha1 40f322a55b68ddf98502673543e11b7b43b2c0ac )
+	rom ( name stream_dream_poster.zip size 2319763 crc 0c9cbd41 md5 fda8bdaf4a54e01bea254c8f49e84faf sha1 17ea66ff2dfeae42d021c13a4d22e14b2a9ae69a )
+	rom ( name stream_dream_subtitles_en.zip size 34935 crc abf70279 md5 f50aa7ced24a560d20b6153906441d67 sha1 de136fdaf5f049b846fafa82a9c46b2063b9a534 )
+	rom ( name stream_dream_trailer.zip size 44283319 crc 86da1eac md5 a073dd74839daa7e6a7eae4bd51a3726 sha1 0f77f804eed74d6f74efe41cfdea7ef75196ecab )
+)
+
+game (
+	name super_game_jam
+	description "Super Game Jam - 5 Short Films & 5 Short Games (Documentary - Gaming - Movie)"
+	year "May 22, 2014"
+	manufacturer "Bram Ruiter, Daniel Oliveira Caneiro / Devolver Digital"
+	rom ( name sgj_blossom_mac.zip size 21985336 crc cb981ca7 md5 7bbe88f854b161d5c416a780ea2a3cd1 sha1 bd1a2bb5eb69dbdb93fe1b62a90fb5cc6756ffd3 )
+	rom ( name sgj_blossom_windows.zip size 16496860 crc d12ab27a md5 e744b4e8a0d66a37ddd9179fb11e1a01 sha1 e8ca83ce257a99c18bd67a3defb8c8e0ec6e7ac5 )
+	rom ( name sgj_catch_of_death_mac.zip size 63973282 crc d94a652f md5 1f6a4128457427cfe60b2d1d54352103 sha1 f72029e5f23a8d02e53aa6e7b50c36fb4247c660 )
+	rom ( name sgj_catch_of_death_win.zip size 62540169 crc 49dc89e1 md5 9d348c85fc6f9efac775a268463b3b2d sha1 e0aadc4e2b15b30f3568ee00d90443a9c87f4ed1 )
+	rom ( name sgj_discussions_uncut_ep3.zip size 1945378394 crc eed26116 md5 b0d35060474e6f506b2601fb05b73ca5 sha1 5e0605d9d66589f0fbfa75d8ed66074f2b96d88b )
+	rom ( name sgj_game_jam_games.zip size 278675073 crc bd8ce541 md5 0f372ea75c0e6fba7fbe9a0576a81d19 sha1 cb54ecf4514186ddfe92ef446a48162c66a8e792 )
+	rom ( name sgj_poster.zip size 1323835 crc 0d837c2f md5 ccbfe7e00c8816fed85d0f3e6fb59e03 sha1 395d1ff5fd38e36722d30b9f4b8481f3c5032ede )
+	rom ( name sgj_sim_antics_win.zip size 107400788 crc 43ac9c3f md5 a5fc1b69aa2761242359453a6bff9b4e sha1 6ad1ac8c832579f15c26ae2bd15e847c0ccfd14f )
+	rom ( name sgj_subs_eng.zip size 80434 crc 6a9effb7 md5 5473c46ada7e3fc1e8e1a387560d3185 sha1 f18c9543932888e0befe0fff122877f8faf07afe )
+	rom ( name sgj_torr_win.zip size 4759617 crc c0ccda2d md5 1bd7e3fd501e29fcff3ae3549150a1d0 sha1 194bd8e327254a38ce7858c694f8aad215e18794 )
+	rom ( name sgj_uncut_discussions_ep1.zip size 1053853411 crc 7578a705 md5 6dfaed65f1ede21380ae675e021893aa sha1 21779ee2ac17a98b037963e20685026f6c4375b3 )
+	rom ( name sgj_uncut_discussions_ep2.zip size 752705437 crc d8da639c md5 b58bfc0ab444478040f40568f5e61904 sha1 cf510a00fe7dae49de59482ad55574fc959128f3 )
+	rom ( name sgj_uncut_discussions_ep4.zip size 464054298 crc ec752a02 md5 b6666da79e69013b5db026c78473acda sha1 82915699bf5ddb8ce2f75ddee4ca904d6de00f8f )
+	rom ( name sgj_uncut_discussions_ep5.zip size 379695724 crc 55710563 md5 006d59f43bf8bd97568d020b9536f064 sha1 6cafab71654c53a6da107871eb4c2d4711eebafb )
+	rom ( name super.game.jam.episode.1.1080p.mp4 size 1056116550 crc c47181da md5 acdd4b7ea7e5e021e0b3d94824facc4c sha1 aef04581a11562e603239200f8e7001fb98664d9 )
+	rom ( name super.game.jam.episode.1.576p.mp4 size 183977341 crc 54525a04 md5 29e00a29d1ed844fb408ce7c106dd144 sha1 1ab24c2c8f94ffe3629cc0c82fae29eface0237e )
+	rom ( name super.game.jam.episode.1.720p.mp4 size 474455442 crc ad6db716 md5 87e412e492277fc7604a1a757afb24bd sha1 617c5ec7e9a2580d0edcb24cc7174f2f167ca7a5 )
+	rom ( name super.game.jam.episode.2.1080p.mp4 size 685289381 crc e1eff63a md5 f62abd123634425c6ba4dcd9586fc8d9 sha1 e42da845cd84202ae80164bd39820af450b60d64 )
+	rom ( name super.game.jam.episode.2.576p.mp4 size 135744226 crc 37a09364 md5 f51abc9c0fad102e2a7d73a80fe07ad4 sha1 ca5d368a12697e1aaf3c10f7e256d55c6f2cc2c8 )
+	rom ( name super.game.jam.episode.2.720p.mp4 size 321015712 crc 6dbb8e51 md5 84dd37474313e6240d87a69df1b14e38 sha1 a162b7e4e1465363078e35e05ecd8d2a5a812453 )
+	rom ( name super.game.jam.episode.3.1080p.mp4 size 912346065 crc ef2b36bd md5 4213635b3fb9e328d02b560a1fdd05ba sha1 2936596ec128717833f36c46fb49eb005d52402c )
+	rom ( name super.game.jam.episode.3.576p.mp4 size 172906047 crc e0fd6d12 md5 13d9aaf5b75c5b01b979601310ec8d27 sha1 46b60f421bac9d8a820d0c1e6457c7680c1cce3c )
+	rom ( name super.game.jam.episode.3.720p.mp4 size 415283464 crc 3c5ee684 md5 450e92a73bbff405beeddd55ce9efbf6 sha1 76335007113c3fc666e4e89aa4b0c957d2ca1266 )
+	rom ( name super.game.jam.episode.4.1080p.mp4 size 968028124 crc d0573fe9 md5 d6fe106779ab4819c5a97b34e39a46a1 sha1 499eafe00c8ce4d08800a65af939c8bcc0901e6d )
+	rom ( name super.game.jam.episode.4.576p.mp4 size 198087306 crc 9e3dd3ae md5 abedbcab1c3b9345a4a539154ef53015 sha1 302e1ba1bf1a7e2932542bd61ec00095c10eeb47 )
+	rom ( name super.game.jam.episode.4.720p.mp4 size 458207531 crc 2009fd3f md5 4720f0816db3837f2e032c9ad5a5cc40 sha1 f35b29ef384b34787ce33ce531c1956f18b17fa1 )
+	rom ( name super.game.jam.episode.5.1080p.mp4 size 809408477 crc 7ef7ad11 md5 fff8b6f8b954d19b2106adb2355020de sha1 36dd83c009b17dc417473501cc0cc00dc3e7a7aa )
+	rom ( name super.game.jam.episode.5.576p.mp4 size 144337995 crc 425552d7 md5 6a9e592bc925c417b4f6427632caca86 sha1 2d4a3af6997260830e2f92eb995a8d94af7f5e79 )
+	rom ( name super.game.jam.episode.5.720p.mp4 size 353286907 crc 7d2f5093 md5 a851856fd8cbecf4ea20ae102816148b sha1 4b67c17272fd664d0b1628e5096b15f25bea6338 )
+)
+
+game (
+	name superhero_me
+	description "Superhero Me (Documentary - Gaming - Movie)"
+	year "June 20, 2010"
+	manufacturer "Garagesale Productions / FilmBuff"
+	rom ( name superhero.me.576p.mp4 size 925209712 crc 84da7dbb md5 7bd71d3cfc00bc1714665e84fd8bd90b sha1 34ce812687551be0de2a2463d08b7c110c49ea20 )
+	rom ( name superhero.me.720p.mp4 size 1761258908 crc 3701ffad md5 06dff3b086b0d40a08c20407d71d2137 sha1 47ce007c040f17ab8839a19dbce6c04045c9b17e )
+	rom ( name superhero_me_poster.zip size 2385306 crc 0b1802f1 md5 0254b124978aa166b46ec0c3ff2f8bea sha1 d5cee8b08e214df18f320c12cb63f961aee7ba74 )
+	rom ( name superhero_me_stills.zip size 14475512 crc 9ae403cb md5 453b23b77490726d6a0607eed3dcc136 sha1 ad92d618457ed3dbe0c8efbc723ff23f96074be3 )
+	rom ( name superhero_me_trailer.zip size 8779244 crc febbf0d1 md5 c2b13a486680c96275b12790880eef6d sha1 0962e9b2cc86bc82a7be25cfaff5253d8b01f252 )
+)
+
+game (
+	name terra_blight
+	description "Terra Blight (Documentary - Gaming - Movie)"
+	year "September 25, 2012"
+	manufacturer "Jellyfish Smack Productions / FilmBuff"
+	rom ( name terra.blight.(2012).1080p.mp4 size 2590548449 crc 133fd1fe md5 c73b7368f79ad90377946b761b65d8c7 sha1 df245511f62a714a5bdffbf49b82a92b1704e033 )
+	rom ( name terra.blight.(2012).576p.mp4 size 511605971 crc 350e9800 md5 2694a832c75bb24e9c920bc04c9e35b0 sha1 c8239c2ca7847ac2945014c2f1fdd0d4f90eba11 )
+	rom ( name terra.blight.(2012).720p.mp4 size 1197776872 crc 2dcaeb8d md5 bf747749b530768b214b8af900fa8d85 sha1 24f0e5ccf066413e204f558a95af73a7ba8baa02 )
+	rom ( name terra_blight_behind_the_scenes_photos.zip size 68018100 crc f3a74ccd md5 d3e84fbb2ed69537b90dc2fd2f3d2e6d sha1 6788f454c50f16eae83a797299875643b8a3ab63 )
+	rom ( name terra_blight_poster.zip size 10063933 crc bfd67cba md5 6c6c0983bd72379b1edba558d296c731 sha1 f90ca3350e0e121560532b8834fbfb1ee9368d17 )
+	rom ( name terra_blight_trailer.zip size 101988400 crc e7ed72aa md5 9ff1b2eb309b579f2aa17fca4e3f1019 sha1 a3a099779367fae1c978e7179d0f567564b0233b )
+)
+
+game (
+	name the_99_occupy_everywhere
+	description "99% Occupy Everywhere, The (Documentary - Gaming - Movie)"
+	year "January 20, 2013"
+	manufacturer "World2Be / FilmBuff"
+	rom ( name the.99.percent.occupy.everywhere.(2013).1080p.mp4 size 2510580780 crc a80e9000 md5 d41b57cc3e398d3176fde7faa0c49596 sha1 80a0d718e88117bd31b79faeae84bd350d4f4de9 )
+	rom ( name the.99.percent.occupy.everywhere.(2013).576p.mp4 size 497188909 crc 5a9477b3 md5 63f033828c40418fd030e472a969a065 sha1 91df85d4e7b32dda42db4b48507702a4a750c651 )
+	rom ( name the.99.percent.occupy.everywhere.(2013).720p.mp4 size 1146110816 crc a661c03b md5 0438525ae0a37c63e489402b94c67648 sha1 8a42dba6364ae3e1dc1e208dd2d890784f4336e8 )
+	rom ( name the_99_percent_occupy_everywhere_subtitles.zip size 35502 crc ad4242c3 md5 54afc5a62aa5554d90a24a8c0a6bf10d sha1 f46597d29f20cfa697624548046394dadd0aef74 )
+	rom ( name the_99_percent_poster.zip size 3564852 crc b54bc63a md5 7f54508e4403ab7f42dd48fee21b3858 sha1 5162e3b60ad8215ae1ae8a6e475aea9e3670aba8 )
+	rom ( name the_99_percent_trailer.zip size 82373972 crc b331777a md5 aa96f28ea702c32a52eb590e3c4a4b7b sha1 8da701eb53d1382c63cc9cddfad41e251624a393 )
+	rom ( name the_99_percent_wallpaper.zip size 1920152 crc 8804cc51 md5 1c8a66815d3d0e728ab5a6cc3115e416 sha1 1a9166bbf39a8e1af3a84d7d69480321d6605bce )
+)
+
+game (
+	name the_art_of_playing
+	description "Art of Playing, The (Documentary - Gaming - Movie)"
+	year "March 10, 2014"
+	manufacturer "Devolver Digital / Devolver Digital"
+	rom ( name art_of_playing_subtitles_fr.zip size 17440 crc 4161fbdc md5 7683e88e684b5d9a33ebaec2747c2487 sha1 d5bda75b7e0f154d6f52c68a197b9565749d3d34 )
+	rom ( name art_of_playing_trailer.zip size 96294840 crc 513e3a41 md5 747f50e6947ae571d71e799451eca1a6 sha1 b19d89bf23dda3514495b98226a7a2d112714cd4 )
+	rom ( name art_of_playing_wallpaper.zip size 1093281 crc 60b311c7 md5 0b7511760c2f958df683ebfca54c5d54 sha1 cb3721009ece920f53d36f65251d4fe880777750 )
+	rom ( name the.art.of.playing.(2014).1080p.mp4 size 1093867282 crc 901192b9 md5 002dd9b4548d4a216f5b2539f292a6d1 sha1 4272e01f02d02313aab12f324c57503ef68681f8 )
+	rom ( name the.art.of.playing.(2014).576p.mp4 size 171667278 crc aeaed284 md5 d918795e9f6714300aa28ec1ae49bc4c sha1 df44b01d550b1117ff5c3d7b41fa6d0157a102f1 )
+	rom ( name the.art.of.playing.(2014).720p.mp4 size 400870359 crc 391bcc78 md5 9a788730b9ec6de2234deabbd4742d0e sha1 471932a39f869f2663a2096a708faee517eee645 )
+	rom ( name the_art_of_playing_subtitles.zip size 17132 crc e6a840ff md5 b2876fa16c4123a0268e93b0a442ddad sha1 3d28e9307f1532709ad4b7d19e621ca1db4ab009 )
+)
+
+game (
+	name the_basement
+	description "Basement, The (Documentary - Gaming - Movie)"
+	year "January 1, 2011"
+	manufacturer "Mayproductions / Devolver Digital"
+	rom ( name basement_poster.zip size 8701396 crc c4f9cbd1 md5 5717a94054158047fe7783aaff42127c sha1 6104dadab9b9dce2aae77c2b4e13f16789f386b1 )
+	rom ( name basement_trailer.zip size 114268346 crc 24152205 md5 ba90910137d8978e9d4095ce2c284f4d sha1 7bd59a7cba7c9ded48cf1beae7eb7d210606a17a )
+	rom ( name the.basement.(2014).1080p.mp4 size 3425154917 crc bf1d9e47 md5 bacfc350361b5147ce34b88c260a1aa6 sha1 9b056c5c8c34786c379cdecc927b9e15ede162ca )
+	rom ( name the.basement.(2014).576p.mp4 size 499681445 crc 1a551a16 md5 155913b3ca0d4dcac7c8d8a6632954fa sha1 e9cc697fb1b0c5419820165c9a2c34b6baabbaa2 )
+	rom ( name the.basement.(2014).720p.mp4 size 1503176902 crc 0e840e17 md5 c892bed0c4e4df85a0f0dff494164900 sha1 12b785ba9b96eab88a317d15e9c4d388ba0a7061 )
+)
+
+game (
+	name the_dungeon_masters
+	description "Dungeon Masters, The (Documentary - Gaming - Movie)"
+	year "September 8, 2008"
+	manufacturer "Antidote Films / FilmBuff"
+	rom ( name the.dungeon.masters.(2008).1080p.mp4 size 4998943178 crc 77155be9 md5 a5a224cbb950a4a9b89eff895f2ab1ca sha1 2dba942b545a040c55126e8dfe7d112a6ed85275 )
+	rom ( name the.dungeon.masters.(2008).576p.mp4 size 637558362 crc bdb285c9 md5 44e05d83c6afe3c4940ae98d286c1f3e sha1 b37f90ad8f2e151e4a714649fcaa2ef7512062b0 )
+	rom ( name the.dungeon.masters.(2008).720p.mp4 size 1965373244 crc b1b36e17 md5 035692ca12924cbaec3fdbd0eb664840 sha1 83519f2eb016d776066ec059a0d3ba21dba1a75d )
+	rom ( name the_dungeon_masters_poster.zip size 660817 crc ae925351 md5 0874235fc5b34ed166da280190900711 sha1 bfe3157ef8893cb336540280e2c7f1bbed0af4cf )
+	rom ( name the_dungeon_masters_subtitles.zip size 46161 crc a44fa1bf md5 800042461dcf39bcfc8ee82b6049f1c5 sha1 6799a9a77bde792f1fdc1ba574cd464808ed0f87 )
+	rom ( name the_dungeon_masters_trailer.zip size 89435467 crc d6d5fabb md5 af0a06779bf9c85bc0fdc5fa03570e09 sha1 51913194cc257e511a716ad742a3b5fe735e8d37 )
+	rom ( name the_dungeon_masters_wallpaper.zip size 597921 crc 5852ec6e md5 a0a0dba3e2f98f582afddc7a79320613 sha1 2e0b6ea10d4925593fc9f750257bc990c66e3855 )
+)
+
+game (
+	name the_frame
+	description "Frame, The (Documentary - Gaming - Movie)"
+	year "October 17, 2014"
+	manufacturer "Double Edge Films / Double Edge Films"
+	rom ( name the.frame.(2014).1080p.mp4 size 4420181330 crc 3848359c md5 a987ec02dd77158b684543042395f4f1 sha1 238a0d877cef101c3f7304d8cc8f57da15d8f544 )
+	rom ( name the.frame.(2014).576p.mp4 size 1882527794 crc efae45bb md5 5fb89a1a62630f4ad76da61435839004 sha1 f915f60448092315c0a3f215a34eb151484b54f1 )
+	rom ( name the.frame.(2014).720p.mp4 size 2039920553 crc ee5a4cf2 md5 26019d7a71e9047387071ef2bbcddad9 sha1 b1ca9d5b0a41bd180de7ad00bf00f83c222daa3a )
+	rom ( name the_frame_artbook.zip size 17497199 crc c339d497 md5 cdec9719a2e2730df8ff3c102a11c006 sha1 dfafabdd40aff28fb0dc736f5cb7fc49ad276c89 )
+	rom ( name the_frame_ost.zip size 90691464 crc ceb4ef9b md5 b1322cd234f13550aeb8609496d59d8f sha1 f50e9201ab17d7d512fda063c428aee1e172e7f0 )
+	rom ( name the_frame_subtitles_pack.zip size 112078 crc cb8e3f4c md5 027cfaf8f225a8fa5e98e772a5d8288f sha1 41a6a2d730c55a807e41e884b0451b83ee23f711 )
+	rom ( name the_frame_trailer.zip size 19585731 crc 34b9c930 md5 b2a6d6979438df4138b12842fbe44584 sha1 01b38a4473bfb79e50bfb1ef42177f274971be7d )
+	rom ( name the_frame_wallpapers.zip size 3713358 crc cb484d21 md5 2aaae1f99cd3504bb7cba13bba02a26c sha1 a405df82e1bbdbe0698cfd6972947c5d91ff2727 )
+)
+
+game (
+	name the_history_of_future_folk
+	description "History of Future Folk, The (Documentary - Gaming - Movie)"
+	year "June 4, 2013"
+	manufacturer "Maida Vale Films / FilmBuff"
+	rom ( name the.history.of.future.folk.(2012).1080p.mp4 size 3065293117 crc bb69e5ff md5 7c3bdba89e4a63ed32d37c73cb7f793b sha1 471c4117e6138bce3a2c07cae1fb069f0d1b48ac )
+	rom ( name the.history.of.future.folk.(2012).576p.mp4 size 467622485 crc 586c3131 md5 0dc216e22e5026ad44866494ddf8b749 sha1 e42ee447ab31b5365fe8fddd4cdeff22428ce88c )
+	rom ( name the.history.of.future.folk.(2012).720p.mp4 size 1124156076 crc 3b3eca69 md5 7e8cae3f28647d3a9d7548542d8c807d sha1 2c516d3aa48c389f51cc5bca37f1ed555ddbaa2b )
+	rom ( name the_history_of_future_folk_subtitles.zip size 25136 crc cf4d0575 md5 9982c15774de51866010674ed6fb8d27 sha1 a6899405f73216087acaaad0cf80333a0fbfe35f )
+	rom ( name thoff_poster.zip size 30872732 crc 86a80d42 md5 bebfafdd8cfc1a575ca6c478bffa3e49 sha1 e90891589994c946ba3755df83ca127566d7afaf )
+	rom ( name thoff_trailer.zip size 57852872 crc 6ea7ddc9 md5 c900f0d778d795a055feeb11b789581a sha1 2d13d6695137e8576c29c269c63ba2e3d99ee6bb )
+)
+
+game (
+	name the_house_in_fata_morgana_live_in_osaka
+	description "House in Fata Morgana, The - Live in Osaka! (Documentary - Gaming - Movie)"
+	year "August 14, 2018"
+	manufacturer "Novectacle / MangaGamer"
+	rom ( name Fata_Live_EN_1080p_mp4.zip size 6948120308 crc 80378479 md5 4a3c559b3921b9e87d6358d602fe5fcd sha1 6141fa7d3f292200f5b7a7c75756c928892a249d )
+	rom ( name Fata_Live_EN_4K_mp4.zip size 7526324863 crc 52e2d3ca md5 6dcea578f18d1b25f0e775b9a89b34a8 sha1 4f0d34fd19ffa89d7982070a564a98bd64682ce9 )
+)
+
+game (
+	name the_king_of_arcades
+	description "King of Arcades, The (Documentary - Gaming - Movie)"
+	year "June 17, 2014"
+	manufacturer "Tiedebaby Films / The King of Arcades"
+	rom ( name the.king.of.arcades.(2014).576p.mp4 size 1005305482 crc e271be19 md5 0016df5d58c2f351da9959617ab8fc08 sha1 842ddd722b48c80f1a5f0735dd192d53fd995bec )
+	rom ( name the.king.of.arcades.(2014).720p.mp4 size 2756412577 crc 18aa9e43 md5 68790ca98a33875c3dad5316e3276164 sha1 3f101b28e49375ff58e8fa77b362470e059a6833 )
+	rom ( name tkoa_at_denver_comic_con.zip size 1074698 crc 4f2fafee md5 ef6372d798a110e4e9888488392d1454 sha1 f7bc02462d1fa136f8ebe6c5c598533fa8250301 )
+	rom ( name tkoa_eugene_jarvis_interview.zip size 70435042 crc 92418ebe md5 ee26d1e73b8956a879c870565d3fa827 sha1 71b255fea61808346b9173138fcbf31b57a9af54 )
+	rom ( name tkoa_pac_man_fever_music_video.zip size 196981947 crc c89f58bc md5 b030946850440d866785c9e1a61cf17c sha1 9af6b3b1d985a9b4561d0aca5783b039bb598878 )
+	rom ( name tkoa_photos.zip size 27508433 crc 245d2f32 md5 a1db867b1ac1d1f733a64af771f55c6a sha1 5fc9af8822bade052b7e50a487c7bedace53f3ad )
+	rom ( name tkoa_pixel_portraits.zip size 158324 crc 85297aa0 md5 96b6341640a1b3b4416ddb635291bc92 sha1 c9b6c90da942b8d5c66785040ee43aeab46bf3d2 )
+	rom ( name tkoa_poster.zip size 4277001 crc 5a77e264 md5 253fb2110dd16520b1d1b38a802b00b2 sha1 acb078a12e55dbee1642dbfcdc89fe357235fd5c )
+	rom ( name tkoa_the_leonard_herman_collection.zip size 272301338 crc daa8af24 md5 cf992e7143022fca19d3ea479dbf2c9b sha1 89115f8f70676a66fdab4cc7b8e04a12961ab365 )
+	rom ( name tkoa_the_recording_of_pac_man_fever.zip size 198709459 crc d72043cc md5 1293622a6ba5fbb79aad980981d38ffe sha1 40de389eedded8b3c4985a94c3f285e5c41a796b )
+	rom ( name tkoa_trailer.zip size 69752420 crc 0f0ac7ae md5 c0bd0e7bcf98faffeaf689583e502c46 sha1 94ddedd66b84235ebcf09f413d342bf57f49926b )
+	rom ( name tkoa_wallpapers.zip size 2139249 crc 97647ae7 md5 e5b71aa15ec2d85ffabc329e46308011 sha1 51b56154d53daa386e7bcb108ca94dbb4a5eda6a )
+)
+
+game (
+	name the_space_invaders_in_search_of_lost_time
+	description "Space Invaders, The - In Search of Lost Time (Documentary - Gaming - Movie)"
+	year "August 7, 2012"
+	manufacturer "Wooden Horse Productions / FilmBuff"
+	rom ( name space.invaders.(2012).576p.mp4 size 524116892 crc 7370ce60 md5 4423ecbda9e5c5262697a4afa964e83e sha1 cfc7038e282bc1baa258e4636d53c396127e439c )
+	rom ( name space.invaders.(2012).720p.mp4 size 1150055354 crc 2a9f47fd md5 f336f24d75c54b64d7b130919b101564 sha1 ac0f77e44d6481bbf2925fab425efbd49387153b )
+	rom ( name space_invaders_subtitles.zip size 247109 crc 111a726c md5 a69bc037ec086f446bd5864dc0284e2b sha1 16cc2f910b1e04402033ec80b449e90fad60e405 )
+	rom ( name the_space_invaders_poster.zip size 20644427 crc cbd2c010 md5 9f708a9013d361d3ad75063fee4255f4 sha1 c0062bb389fc41c084e77047eb60dada8ebbcdc6 )
+	rom ( name the_space_invaders_trailer.zip size 155513303 crc 90d7ed55 md5 acf3826cc4f27e138bba52763a44c671 sha1 5c707c8d2396ee0a0592d3d8e57ce12ac094cf48 )
+)
+
+game (
+	name the_startup_kids
+	description "Startup Kids, The (Documentary - Gaming - Movie)"
+	year "September 29, 2012"
+	manufacturer "Matador Media / FilmBuff"
+	rom ( name the.startup.kids.(2012).1080p.mp4 size 1880709148 crc adc699d9 md5 6c9c3117633a4cac857142572c116bb4 sha1 7b05c330da51c3f22ca6106134e11aca8ce7501a )
+	rom ( name the.startup.kids.(2012).576p.mp4 size 315173765 crc 9569d817 md5 ce92132722afbdd6a41dd8a268e26443 sha1 2c574741dbac4125a2ab5a28d00bb12f94e0d9be )
+	rom ( name the.startup.kids.(2012).720p.mp4 size 767627967 crc d0e3f4e5 md5 04d8680ecf5c635d70a20219e744ef4c sha1 d0bf4fda7abd9333800fb96d9908eab39ebeaf2c )
+	rom ( name the_startup_kids_poster.zip size 30812646 crc 970dfc6f md5 e6488da76c528f0cd8cb9983956c7a6f sha1 65df4de78f58aa55aa299de567c28260ac69a7a6 )
+	rom ( name the_startup_kids_subtitles.zip size 29587 crc deac2593 md5 05beddbe2e08ec3bb1e8ada17e6400e8 sha1 5b6d88981cfae748f34e162ac82d92557184ab4d )
+	rom ( name the_startup_kids_trailer.zip size 69795056 crc 93895ab9 md5 7eb58cb50a5d4d028c96a81917656ab2 sha1 b722f6f7d8fbecff862f6e13b7e3f0dc245fed33 )
+)
+
+game (
+	name trek_nation
+	description "Trek Nation (Documentary - Gaming - Movie)"
+	year "November 30, 2011"
+	manufacturer "Roddenberry Entertainment / FilmBuff"
+	rom ( name treck_nation_subs.zip size 64001 crc d5c16a99 md5 ff2e1d4482ad2db96d9fcf024b25bded sha1 86604ca3713db014d70f37ca992a71ba6961ff32 )
+	rom ( name trek.nation.(2010).1080p.mp4 size 5215387991 crc 3a97b2b9 md5 bdd1402d3494b1c117ffc38a8bb21305 sha1 44dea7fd153e6be817bb4b4bf3d9308cfba873b6 )
+	rom ( name trek.nation.(2010).576p.mp4 size 917721725 crc 0e9c3a81 md5 6edfc106cdf5f701c9955d8255da7633 sha1 8d370c2ce7938642ae11a3085fa1a2cec7293c20 )
+	rom ( name trek.nation.(2010).720p.mp4 size 2431017541 crc 057bbe23 md5 b5274bbec50816a9fdc46d91d81d835f sha1 8ac1c174c1ef5b21d9f6db0a105fb691ca0d045b )
+	rom ( name trek_nation_poster.zip size 6216 crc d8e3c062 md5 2ee38888d674d3a13abb0a97bf0458a5 sha1 a84e39b90a8da3575ae211d398832a54b7155f89 )
+	rom ( name trek_nation_trailer.zip size 224249627 crc 111e1afe md5 b677b57b3f28ef70a1e5206393fca552 sha1 6f5416535930d758130cc4e99c8d2b02edccc1cb )
+)
+
+game (
+	name us_and_the_game_industry
+	description "Us and the Game Industry (Documentary - Gaming - Movie)"
+	year "August 1, 2013"
+	manufacturer "Common Dreams Media / Synergetic Distribution"
+	rom ( name us.and.the.game.industry.(2013).1080p.mp4 size 3175787602 crc 0262e225 md5 7057c56416a67bc1b5819e87e6d0da2c sha1 c1f72b6e8de1880410e818525ebef34c1d6038aa )
+	rom ( name us.and.the.game.industry.(2013).576p.mp4 size 598386605 crc 9ec26ffc md5 a3c8ce7b812fed8db60042cf8e3c5176 sha1 01155cdbd6b1e3c414e267473c46055b518e7f5f )
+	rom ( name us.and.the.game.industry.(2013).720p.mp4 size 1422372181 crc 67bd2dcd md5 f28e441fec73671947d6bae123d16a38 sha1 89796c67bdcc7f609dc3d89faa9d4def75acc278 )
+	rom ( name us_and_the_game_industry_poster.zip size 7611634 crc dafa142a md5 fc872d7ae3f8e5527282c5bd0c65365a sha1 99b0d22d991ef94a442857d8d9cdd42912e49f58 )
+	rom ( name us_and_the_game_industry_qa_video.zip size 951874955 crc 61c1ccf7 md5 618a0c0ce06f008bbb50359ec25a484d sha1 06655dfeb2455c188afe18f3257d30155bfd81d4 )
+	rom ( name us_and_the_game_industry_trailer_1080p.zip size 77544573 crc 0beaddfd md5 1282c89d06b144ccbbccd93f216e208a sha1 416f4ac5c5de49419641b221edbcd2759705e32d )
+	rom ( name us_and_the_game_industry_wallpaper.zip size 888174 crc d9866301 md5 2d1fd2eb3aa8ee8eb93d9a3bdda44e94 sha1 a3b5742f3ca8cd934c789ab14ed3c6296f8c5032 )
+)
+
+game (
+	name video_game_show_the_witcher_3_wild_hunt_concert
+	description "Video Game Show - The Witcher 3 - Wild Hunt Concert (Documentary - Gaming - Movie)"
+	year "March 1, 2017"
+	manufacturer "CD PROJEKT RED / CD PROJEKT RED"
+	rom ( name video_game_show_the_witcher_3_wild_hunt_concert_1080p.mp4 size 3070245483 crc c541f3f0 md5 395e64795285ffaf25bea44c5f4fefdc sha1 f046d2d2aec987ce0f6442f124e9310dc6dd027e )
+	rom ( name video_game_show_the_witcher_3_wild_hunt_concert_4K.mp4 size 21132529952 crc 423c539f md5 92141af0de2dafa91362a1b849f6a409 sha1 84c560fdae7932919a9174221ce0572391ad27d9 )
+	rom ( name video_game_show_the_witcher_3_wild_hunt_concert_720p.mp4 size 1415857942 crc ab860386 md5 8afe79ba8813ef88842159188c2f8326 sha1 f7817a9aee417deb0fd7b4409d54833fd4c2ec80 )
+	rom ( name video_game_show_the_witcher_3_wild_hunt_concert_dvd.mp4 size 708157105 crc db0f11bd md5 734854fd38efc88faf502b421ed02cae sha1 6db584eb58a48e97061ba19641ebd12b3154ecdb )
+)
+
+game (
+	name we_cause_scenes
+	description "We Cause Scenes (Documentary - Gaming - Movie)"
+	year "March 8, 2013"
+	manufacturer "Deverge / FilmBuff"
+	rom ( name we.cause.scenes.(2013).1080p.mp4 size 3609398748 crc 0d83d4c2 md5 0b59998e9fec7e85cf564ba2b3adfa7e sha1 d029747203f9b0fb41c5295e6816bc6b842f0cb9 )
+	rom ( name we.cause.scenes.(2013).576p.mp4 size 691636361 crc 49e47346 md5 c9276f1947ea140e1e9b4d3ca066985b sha1 8e5245430c0c873f6455190b4b71605b36777538 )
+	rom ( name we.cause.scenes.(2013).720p.mp4 size 1684937788 crc 784035f5 md5 57ebcb4d6f2904f1aef8d0278e47ce55 sha1 1942a4942b62147449c6437290d5695455e8c6d8 )
+	rom ( name we_cause_scenes_poster.zip size 3845926 crc fbd3196e md5 7d9ee9fb2facf64a93d395f6f40e8115 sha1 50aaad5b0e4b113744e4a218bee4a48a42a17ffc )
+	rom ( name we_cause_scenes_trailer.zip size 252687305 crc 89181dd6 md5 c10cc9aff9eac38a3155848a348ada95 sha1 0395f8796f65dbff5492834771bd2e4a9cb0b901 )
+)
+

@@ -1,0 +1,142 @@
+clrmamepro (
+	name "GOG.com - Movies [REMOVED]"
+	description "GOG.com - Movies [REMOVED]"
+	category "Movies from the gaming industry."
+	version 9
+	date "9th August, 2020"
+	author "Connie Thunder"
+	email "Not Applicable"
+	homepage "Connie's DAT Files"
+	url " https://goo.gl/r53xhZ "
+	comment "GOG.com Collection of Removed Movies. Available in DVD, 720p & 1080p resolutions. MP4 format."
+	forcenodump ignore
+	forcepacking unzip
+)
+
+game (
+	name dark_dungeons
+	description "Dark Dungeons (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 14, 2014"
+	manufacturer "Rallsfilm / Zombie Orpheus Entertainment"
+	rom ( name dark.dungeons.the.movie.(2014).1080p.mp4 size 1444649586 crc 0df955bd md5 df5d3e8b562b5cfa8275d9af5aed1fda sha1 41304f32912f5e7969d1bfee6752484b2921f766 )
+	rom ( name dark.dungeons.the.movie.(2014).576p.mp4 size 250535632 crc 44489dbc md5 59fb03b15bce5af709125b9de1084c31 sha1 4ce83105e6b6370e45af884baf42528e7bf56ea6 )
+	rom ( name dark.dungeons.the.movie.(2014).720p.mp4 size 592415061 crc ee073916 md5 4640d5fca75e54a3e7dc06e91cfdd326 sha1 db0f3935b170f75540460ec7801673de53de5a32 )
+	rom ( name dark_dungeons_electronic_press_kit.zip size 2306275 crc e1bda74a md5 c717edea719b8dd2e76561f5cfe77ca2 sha1 42b0d472a7c918f0454d36955cb126ec089e1421 )
+	rom ( name dark_dungeons_making_of.zip size 817809200 crc d418b24f md5 c1b10a323ac8fcb3647f54d92c898fb3 sha1 582b2cdf6138b4484af05646ac2cff1c09494e17 )
+	rom ( name dark_dungeons_subtitles.zip size 78022 crc 684fb80f md5 536568889a345451f01b62980dd82c66 sha1 53a4980f0a57594e5a8c955858f7bc250b6b365e )
+	rom ( name dark_dungeons_trailer.zip size 106112207 crc 988cfc30 md5 b03193d8e6ee945f655827f11aa708bf sha1 683ee44cdfb6559f3e8920d9d3ebbea4d71a2bb0 )
+	rom ( name dark_dungeons_wallpapers.zip size 6650647 crc dd33e1d4 md5 b966e7484f22f927d765a8c7a8f264b3 sha1 da2ed9792a00a0830508a58df1bf9013f479cb91 )
+)
+
+game (
+	name journeyquest
+	description "Journey Quest (Documentary - Gaming - Movie) [REMOVED]"
+	year "September 28, 2010"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name journey_quest_season_1_1080p.mp4 size 2194823036 crc 013dd1b4 md5 ccfef6e0b3c4c16635c9507d2c5b55d8 sha1 b0d6ffb1bc09916a5620ed681e3f2196ab1efa4e )
+	rom ( name journey_quest_season_1_576p.mp4 size 509096528 crc fbb22ea2 md5 73acc5dcf6bdd26cd583938a6c44972c sha1 90f9b9fe6a2b009ffd9977b0d9c8602a044caa88 )
+	rom ( name journey_quest_season_1_720p.mp4 size 1122286778 crc 28513b04 md5 2535ca010bf8507d535a449536c8b0ed sha1 6adf1163d0ec05c02b4e7a5c552da424ef8a73b8 )
+	rom ( name journeyquest_poster.zip size 911746 crc 8f83cc33 md5 7dd45613a9cb2c3fe74eda1d9a669392 sha1 c891b101dfdb4d057ce1d5d7b652a7880650f478 )
+	rom ( name journeyquest_ringtones.zip size 1139889 crc fe5f9547 md5 d6eaebe96520903c12975a8546d3f363 sha1 c72abf39ceb9d4616efd761148a92b42b561394d )
+	rom ( name journeyquest_ringtones_iphone.zip size 1363406 crc 2f23ecdc md5 c0ff8a3e8491e302ced3df548c030cde sha1 2d141e562fc44acd46b365ab9b2ff86890cff304 )
+	rom ( name journeyquest_trailer.zip size 45882537 crc 34923cd0 md5 ec3722c62f3ae220d65d0c6fba2f0505 sha1 9f84525540c6b771df939f9787f84331673bce51 )
+)
+
+game (
+	name journeyquest_city_of_the_dead
+	description "Journey Quest - City of the Dead (Documentary - Gaming - Movie) [REMOVED]"
+	year "July 17, 2012"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name journey_quest_city_of_the_dead_1080p.mp4 size 3313827682 crc 3ff1dbab md5 f86f20af0b26af5aeef36dbbe4648267 sha1 deb926e49bf33a9c3ae7731804e4a0c8891e9679 )
+	rom ( name journey_quest_city_of_the_dead_576p.mp4 size 659813919 crc 47505bcd md5 8d1a243a27f4875c3ee03f1f5f7b735a sha1 cbba618e0069b14c14a334ac5ad2d7b9db1ffa92 )
+	rom ( name journey_quest_city_of_the_dead_720p.mp4 size 1485463967 crc 611734fe md5 77d80cc861ed31f2c01c2e17296be91a sha1 689c6ba00bc61ba4c00d04636018593ed91ed1bb )
+	rom ( name journeyquest_cotd_trailer.zip size 30356917 crc dc0aac92 md5 a86c27d4fae18e4526b016a72e66dcfc sha1 8ac609d2872ee2f94ae930a0a1fcb2fba70a2d36 )
+)
+
+game (
+	name the_gamers_directors_cut
+	description "Gamers, The - Director's Cut (Documentary - Gaming - Movie) [REMOVED]"
+	year "November 03, 2002"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name the.gamers.directors.cut.(2002).576p.mp4 size 796842724 crc 6ba1feec md5 22ae7f142dfc50437ea131b9e97eda2f sha1 8eff24e72f62484e08427ed4ef9b28f77f942bda )
+	rom ( name the.gamers.directors.cut.(2002).720p.mp4 size 1124769828 crc 7177e1dd md5 0fffe6ae6ed36c0410ec7a042579d37c sha1 6b26b8a9377889a736e8319ce1035c643204347e )
+	rom ( name the_gamers_directors_cut_artwork.zip size 123226 crc 0b30603b md5 04464eac7149b3cd4e58eda90b632623 sha1 ac0849916fa5fc5a13830bb23c738567d53d2c15 )
+	rom ( name the_gamers_directors_cut_dvd_cover.zip size 3792423 crc 2c652cd8 md5 d71c8e6a2b5aed200bdc6ebeb939c78a sha1 ad4d76ae8d335ecf42c913b857b5f476d4e25bce )
+	rom ( name the_gamers_directors_cut_trailer.zip size 49725795 crc 0d991d9c md5 0a99d8d0b4ce2939de0f158282c72afe sha1 745966055900534ac0b07ff70bb8791162ad6622 )
+	rom ( name the_gamers_subtitles.zip size 95358 crc 6af35c49 md5 76ffeeffaa6a6b5603cbb8efabff7557 sha1 943cc9f30af96feda747407b4516b73cf18bdf14 )
+)
+
+game (
+	name the_gamers_dorkness_rising
+	description "Gamers, The - Dorkness Rising (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 14, 2008"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name gamers_dorkness_rising_subtitles.zip size 270432 crc 479bb4a9 md5 75f3d4a8075bdacf1d7fd0057720653b sha1 b649a6448950fbe0b94cd8270f6e0b611fb4e526 )
+	rom ( name the.gamers.dorkness.rising.(2008).576p.mp4 size 696718646 crc 5fa5d1fb md5 a2354d25fc86dd3e70f4d208e6a1d7df sha1 af7cd329980b58512574ce974b0e1f330bb59154 )
+	rom ( name the.gamers.dorkness.rising.(2008).720p.mp4 size 1357507119 crc a02aa26c md5 34ee788fde1fd163399e81256c3e05fc sha1 07ce74a5fc2d6090824b1aac407b9c8c1d4f4f16 )
+	rom ( name the_gamers_dorkness_rising_poster.zip size 4752402 crc 16024c10 md5 017eb47dee629acf298efc5d54f524c6 sha1 94d3a47d8aa818f8a6005cee405aa8c32cd92bf9 )
+	rom ( name the_gamers_dorkness_rising_trailer.zip size 26827470 crc bb56991c md5 ae7363dd20ad9fc82ad1f69c276a6aa0 sha1 e3d66bc0ca88cdc5643eee4da039146734fa0499 )
+	rom ( name the_gamers_dorkness_rising_wallpaper.zip size 354968 crc 26bdf012 md5 94f6ca744aa4427ac5aa2a22102d7fa9 sha1 da34aed6e76ae83df88225256fc98243307d747c )
+)
+
+game (
+	name the_gamers_hands_of_fate
+	description "Gamers, The - Hands of Fate (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 15, 2013"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name gamers_hands_of_fate_subtitles.zip size 49260 crc cd851242 md5 fb450f545ad819cbd3923618874abdcc sha1 37e54d2fd2ae9c93411a9d15d02c3afa156a16f8 )
+	rom ( name the.gamers.hands.of.fate.(2013).1080p.mp4 size 3201504306 crc c35ebc4e md5 3903e48f0c944b601f13ff0855a33620 sha1 a94754e59369dcc9463891f06b2b0ed105184fee )
+	rom ( name the.gamers.hands.of.fate.(2013).576p.mp4 size 780363282 crc 26c326b6 md5 925bc771c406a727dcf52787211e5c55 sha1 c2598bd72af845f83d76fa5890cb238ec625e709 )
+	rom ( name the.gamers.hands.of.fate.(2013).720p.mp4 size 1853203894 crc 4f261270 md5 3ced64b488fe131dffb4a5b25d958aa9 sha1 1315fa8ec51b39a41f058b8af0f006761ededc1f )
+	rom ( name the_gamers_hands_of_fate_commentary_tracks.zip size 1068133566 crc 4fc658b3 md5 bcbae263d6278e15cfcbf8982e516296 sha1 0246c2f4970c41fab9ff0deb25d4ca569cbfbf4c )
+	rom ( name the_gamers_hands_of_fate_music_tracks.zip size 5564890 crc e92a4708 md5 3437554941ccd563d61542368e6ad521 sha1 6cfbb27d007d61f5220d327b856e7cff787f4ef6 )
+	rom ( name the_gamers_hands_of_fate_poster.zip size 6277566 crc ae7da81c md5 b84d68934ca1ac436d1793842adf4f8a sha1 e8da807541ac6a0362d2951eeb27558b4d2471b3 )
+	rom ( name the_gamers_hands_of_fate_trailer.zip size 63805560 crc efe55d05 md5 854df6a104a7f38cc1ce8458fd9900e9 sha1 d11e9b89c28615b1fff6ef3b1d6feb0cd7fb82f2 )
+)
+
+game (
+	name the_gamers_humans_households
+	description "Gamers, The - Humans and Households (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 16, 2013"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name the.gamers.humans.and.households.episode.(2013).1.1080p.mp4 size 253699765 crc c24244f4 md5 c0f9e2a800a65b5837fd828a34d9cfd8 sha1 dc38081294df08caccedcc9dd27629e5372f5ac2 )
+	rom ( name the.gamers.humans.and.households.episode.(2013).1.720p.mp4 size 112423444 crc bbed396d md5 78b378786791e6acf21156d9fa4c7e01 sha1 b4e154388ec9624deda41e17413cd9829067e1c0 )
+	rom ( name the.gamers.humans.and.households.episode.1.(2013).576p.mp4 size 50121372 crc 6d27be6a md5 a644bf909e17cda854150ab4ef4a5d23 sha1 41c7231b9cc5c584db0700178b3b00430b9d8228 )
+	rom ( name the.gamers.humans.and.households.episode.2.(2013).1080p.mp4 size 333546817 crc 6d1ef06e md5 579a78f49f07f6185896a719c3d4ab18 sha1 7975b418ef54b5c1862b3da3c50addd3f50565d9 )
+	rom ( name the.gamers.humans.and.households.episode.2.(2013).576p.mp4 size 57230657 crc 8cf8e368 md5 3acdf1c0bb4a328af434a8b001b0073c sha1 f03abfa26510987e66956164f55b0105d2aef070 )
+	rom ( name the.gamers.humans.and.households.episode.2.(2013).720p.mp4 size 138691545 crc 1fa56286 md5 9ec35d06ded03a6412d164c88c727198 sha1 0136559623dfee19f9e089d4979aa1c34b1e3d05 )
+	rom ( name the.gamers.humans.and.households.episode.3.(2013).1080p.mp4 size 285758527 crc f2bff9c0 md5 d2b99b725a2a0485781472f5b164add7 sha1 7de9f939b91ad24f29f0b7e0fdbff5b074f51546 )
+	rom ( name the.gamers.humans.and.households.episode.3.(2013).576p.mp4 size 55983187 crc 7472cf51 md5 2c8ec065cf6de94ac4e274a571fbf916 sha1 303ad216c632b10e943d6aad457ce91b20b6a6fd )
+	rom ( name the.gamers.humans.and.households.episode.3.(2013).720p.mp4 size 125237379 crc 7f6b94ec md5 014d5cf2a6ebf5e196084c32e4b56047 sha1 bae8ca2672f96a291277505b59f394e8955bc769 )
+	rom ( name the_gamers_humans_and_households_outtakes.zip size 85799773 crc 1ea58b9f md5 e220b8685a5ecb04f8d4199b18ad093d sha1 153a6ea474e3a329eb429132234c5413e007db98 )
+	rom ( name the_gamers_humans_and_households_subtitles.zip size 12060 crc feaee62b md5 639807d76fc8cbf81cc9cabd6c409964 sha1 241ac0bea795569300dab82a59fd93499e776c03 )
+	rom ( name the_gamers_humans_and_households_trailer.zip size 198430477 crc 0e7c20d1 md5 02a31c95838b2e40356e2a9404e16aa4 sha1 a62c0635aa408ae768c6f4b8d68cc14269429d2e )
+)
+
+game (
+	name the_gamers_natural_one
+	description "Gamers, The - Natural One (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 19, 2013"
+	manufacturer "Dead Gentlemen Productions / Zombie Orpheus Entertainment"
+	rom ( name the.gamers.natural.one.(2013).1080p.mp4 size 877862832 crc 7199da45 md5 ffeddccaab4a99a3e18409fa1d7a340e sha1 2d48129d9020c9a9600f63b48f0c0e44707780fc )
+	rom ( name the.gamers.natural.one.(2013).576p.mp4 size 177171990 crc c5bb0ac8 md5 8cee66b6c81f3ec9bcdb02db13844059 sha1 ed30b195d364f93e51ef1c036d3117e6c46869fd )
+	rom ( name the.gamers.natural.one.(2013).720p.mp4 size 386643287 crc 2727ef4b md5 4a7c98747e0e759bd16beab00c803bb4 sha1 5ff1c10bc2f4897ea99a9ba07fc6278a59ce660c )
+	rom ( name the.gamers.natural.one.subtitles.zip size 14473 crc d0652c3b md5 957960acf9923005e4dddf99a41073c7 sha1 c6d4485636833710560560cc7d4e38f1efaf0692 )
+	rom ( name the_gamers_natural_one_poster.zip size 15082286 crc 898e1e4e md5 ad69af9ed151676959e46b2bf66f6915 sha1 8ada45db932fe819797dc69c0f81ae3a4af18790 )
+	rom ( name the_gamers_natural_one_trailer.zip size 205057342 crc 793bf9e4 md5 893e18958d038528e17095a1b22c433b sha1 5eb11a42af770ce5e20a1acb42a5e61038048909 )
+)
+
+game (
+	name tpb_afk_the_pirate_bay_away_from_keyboard
+	description "TPB AFK - The Pirate Bay Away from Keyboard (Documentary - Gaming - Movie) [REMOVED]"
+	year "August 07, 2014"
+	manufacturer "TPB AFK / Nonami"
+	rom ( name tpb.afk.the.pirate.bay.away.from.keyboard.(2013).1080p.mp4 size 8551221014 crc 08b926e9 md5 020068b37ad84890e8b9181a5ec12b6e sha1 1333b17d7312f2a878dd79a82612d5229519d802 )
+	rom ( name tpb.afk.the.pirate.bay.away.from.keyboard.(2013).576p.mp4 size 819005749 crc 03468715 md5 91580bb51e13c4b0e842cc10c4584a12 sha1 a17b034e8a1efb7e3d197ef47a3e63d9e8420974 )
+	rom ( name tpb.afk.the.pirate.bay.away.from.keyboard.(2013).720p.mp4 size 4277499073 crc 33fed615 md5 3c5239f04c74654181729d403efbc603 sha1 a161e6c94bb0e37b4808cfdd8b2c50632042f658 )
+	rom ( name tpb_afk_poster.zip size 54341493 crc ff6625d8 md5 01854e66eb6343f7df5c7ebba56c10ca sha1 503c2716a2a456af119106258bc313059d3987e9 )
+	rom ( name tpb_afk_the_pirate_bay_away_from_keyboard_subtitles.zip size 28617 crc aef31607 md5 e59c4506e84b838d67c8d9809dffee30 sha1 423248f4f6ed3dfc3ebde4f0944bae3f3d0654ab )
+	rom ( name tpb_afk_wallpaper.zip size 1237692 crc f615bcd7 md5 fd8794aaaf9979e4e84e7bf8ff1ee84b sha1 cec223bd8e5a7532db3d94b876ccd0139425345a )
+	rom ( name tpb_afk_subtitles.zip size 28617 crc aef31607 md5 e59c4506e84b838d67c8d9809dffee30 sha1 423248f4f6ed3dfc3ebde4f0944bae3f3d0654ab )
+)
+
